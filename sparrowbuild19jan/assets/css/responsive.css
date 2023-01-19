@@ -1,0 +1,6133 @@
+@media(min-width:1600px) {
+    .img-mb-click2 {
+        position: fixed;
+        bottom: 15% !important;
+        right: 40px;
+        z-index: 999999;
+    }
+
+}
+
+@media(max-width:1340px) {
+    .mainHomeBannerImage {
+        width: 90%;
+    }
+
+    .homebabyimg {
+        width: 100%;
+    }
+
+    .overlapImageCurve {
+        bottom: 24%;
+    }
+}
+
+@media (min-width: 1340px) {
+    .aboutBanner img {
+        transform: rotate(0.2deg);
+    }
+
+    .overlapImageCurve {
+        bottom: 30%;
+    }
+}
+
+@media (max-width: 1300px) and (min-width: 1100px) {
+    .overlapImageCurve {
+        bottom: 31%
+    }
+}
+
+@media(min-width:1250px) {
+
+    .aboutMeBox.mb-fun-fact {
+        height: 156px !important;
+    }
+
+    .connectPartial.mb-connectpartial {
+        margin-top: -60px;
+    }
+
+}
+
+@media(min-width:1100px) {
+
+    .mbcustomerSigninP.mb-2 {
+        margin-top: -24px;
+    }
+
+    .aboutMeBox.mb-fun-fact {
+        height: 184px;
+    }
+
+    .aboutBanner img {
+        margin-bottom: 30px;
+    }
+
+    #basic-navbar-nav .navbar-nav .none{
+        margin-left: 35px;
+    }
+
+}
+
+@media(max-width:1100px) {
+    h1 {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 50px;
+        color: #14142B;
+    }
+
+    h2 {
+        font-size: 40px;
+        line-height: 52px;
+    }
+
+    h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    h4 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    h5 {
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    h6 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    p {
+        font-family: 'Manrope', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        color: #898A8D;
+    }
+
+    input {
+        font-family: 'Manrope', sans-serif;
+        color: #898A8D;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 50px;
+        border: none;
+        position: relative;
+    }
+
+    .setOn {
+        width: unset;
+    }
+
+    .chatUserContentp {
+        width: 150px;
+    }
+
+    .chatMainContainer {
+        border: 1px solid rgba(196, 196, 196, 0.5);
+        margin-top: 130px;
+        margin-left: 40px;
+        margin-right: 40px;
+        padding-right: 10px;
+        margin-bottom: 140px;
+    }
+
+    .setMoneebHed {
+        padding-left: 22px;
+    }
+
+    .blokIpad {
+        display: block !important;
+    }
+
+    .bgNotiLines {
+        margin-left: unset;
+    }
+
+    .studentDetails {
+        position: relative;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        padding: 30px 40px 30px 39px;
+        text-align: center;
+    }
+
+    .wd66 {
+        width: 80%;
+        padding: 20px 0;
+    }
+
+    .footerMenu {
+        display: flex;
+        height: 79px;
+        justify-content: space-around;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        align-items: center;
+        position: fixed;
+        left: 0;
+        right: 0;
+        width: 100%;
+        bottom: 0;
+        z-index: 99;
+        background-color: white;
+    }
+
+    .footerIcons {
+        margin-bottom: unset !important;
+    }
+
+    .bannerBtnCounter {
+        flex-direction: column;
+        align-items: baseline;
+        margin-top: 25px;
+    }
+
+    .freelanceStudent {
+        margin-bottom: 0;
+    }
+
+    .freelanceMoney img {
+        margin-left: -30px;
+    }
+
+    .freelancerSignup {
+        margin-bottom: 100px;
+    }
+
+    .freelanceStudent img {
+        margin-left: -15px;
+    }
+
+    /* .customSearchField {
+        width: 330px;
+    } */
+
+    .bannerMain {
+        margin-bottom: 0px;
+        /* height: 640px; */
+    }
+
+    .profileTaks {
+        display: flex;
+        margin-bottom: 5px;
+        flex-wrap: wrap;
+    }
+
+    .profileTaks>div {
+        margin-bottom: 10px;
+    }
+
+    .hireStudent {
+        margin-bottom: 75px;
+        padding-top: 150px;
+        padding-bottom: 200px;
+    }
+
+    .laptopMain {
+        margin-top: 50px;
+    }
+
+    .findStudent h2 {
+        margin-bottom: 10px;
+    }
+
+    .findStudent img {
+        width: 100%;
+    }
+
+    .paddingLft20 {
+        padding-left: 20px;
+        margin-top: 20px;
+    }
+
+    .mainHomeBannerImage {
+        width: 80%;
+        margin-top: 0;
+    }
+
+    .marginForDashboard {
+        margin-left: unset;
+    }
+
+    .myStudentsBtnMain {
+        margin-top: 60px;
+        margin-bottom: 120px;
+    }
+
+    .sidenav {
+        display: none;
+    }
+
+    /* signin page starts */
+
+    .img1 {
+        margin-left: unset;
+    }
+
+    .signUpStudentForm {
+        margin-top: 55px;
+        padding-bottom: 25px !important;
+    }
+
+    .signInStudentImg {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .lLCircle {
+        padding-bottom: 160px !important;
+    }
+
+    /* customer signup page starts */
+
+
+    .nameField {
+        padding: 10px 24px;
+    }
+
+    .createFormLInput {
+        padding: 10px 24px;
+    }
+
+    .mb-1 {
+        margin-bottom: 0.5rem !important;
+    }
+
+    .last-mb p.mb-1 {
+        margin-left: 12px;
+    }
+
+
+
+    /* signup student 2 */
+
+    form.createAccountForm.mb-createAccountForm {
+        padding: 0px 10px;
+    }
+
+    .bDateInput {
+        padding: 8px 20px 8px 20px;
+    }
+
+    .gender-mb .secondary {
+        border-radius: 10px;
+    }
+
+    .gender-mb {
+        border-radius: 11px !important;
+    }
+
+    /* forgot page starts */
+    .forgot {
+        width: 185px !important;
+    }
+
+    p.forgt-mb-p {
+        margin-bottom: 20px;
+    }
+
+    p.mb-2-frgt {
+        margin-bottom: 12px;
+    }
+
+    .img-mb-click2 {
+        position: fixed;
+        bottom: 8%;
+        right: 67px;
+        z-index: 999999;
+    }
+
+    .overlapImageCurve {
+        bottom: -6%;
+    }
+
+
+
+}
+
+@media (max-width: 991px) and (min-width: 576px) {
+    .f_l_parent_modal {
+        margin-bottom: 0px;
+        flex-wrap: wrap;
+    }
+
+    .carLisenceField {
+        flex-direction: column;
+    }
+
+    .carLisenceField>div {
+        width: 100%;
+    }
+
+    .vehicleDivModal {
+        margin-top: 10px;
+    }
+
+    .with483 {
+        width: 100%;
+    }
+
+    .bDate {
+        margin-left: 10px;
+    }
+
+    .dateSubFlex {
+        padding: 0;
+        margin-right: 10px;
+    }
+
+    .f_l_parent_modal>.f_l_name_modal {
+        margin-bottom: 20px;
+    }
+
+    .f_l_name_modal {
+        width: 100%;
+    }
+
+    .f_l_name_modal input {
+        width: 95%;
+    }
+
+    .f_l_name_modal p.mb-1 {
+        margin-left: 0;
+    }
+
+    .qParts2 {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    #updateStudentDetailForm {
+        margin: 0 !important;
+    }
+
+    .aboutBanner img {
+        margin-bottom: 18px;
+    }
+
+    .banner .bannerLogos {
+        padding: 18px 25px;
+    }
+
+    /* .navMain5pagesSignedIn .logInClass {
+        margin-top: 9%;
+    } */
+
+    .mainHomeBannerImage {
+        width: 100%;
+    }
+
+    .mainbannerTextPart {
+        padding-left: 10px !important;
+        padding-right: 0 !important;
+    }
+
+    #homeSearchForm {
+        width: 100%;
+    }
+
+    .taskbutton {
+        width: 115px !important;
+        height: 46px !important;
+    }
+
+    #advanceSearchForm .bannerFields.viewStudentsField .taskbutton {
+        height: 60px !important;
+    }
+
+    #advanceSearchForm .bannerFields.viewStudentsField {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+
+    .advanceBodyParts:last-child {
+        margin-top: 23px;
+    }
+
+    .viewAllStudents .pl90 {
+        padding-left: 0;
+    }
+
+    .forTaskInReview {
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width:800px) {
+
+    .wd59 {
+        width: 78% !important;
+    }
+
+    .stOneDiv img {
+        width: 80%;
+    }
+
+    img.MENUImg {
+        position: absolute;
+        right: 5px;
+        padding: 2px 5px;
+    }
+
+    .mb-stepone-mrgn {
+        margin-bottom: 20px;
+    }
+
+    .navbar button {
+        height: 30px;
+        width: 27px;
+        opacity: 0;
+        /* visibility: hidden; */
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        height: 30px;
+        width: 27px;
+    }
+
+    .blockipad {
+        display: block !important;
+    }
+
+    /*  */
+    .header .navbar {
+        height: unset;
+    }
+
+    .chatUserContentp {
+        width: 110px;
+    }
+
+    .chatHed {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 10px 25px 10px;
+        background: #FFFFFF;
+        border: 0.2px solid #C4C4C4;
+        border-top: none;
+        border-left: none;
+    }
+
+    .editImager {
+        position: absolute;
+        /* top: 18px;
+        right: 10px; */
+    }
+
+    .fancySpan {
+        padding: 5px 10px;
+    }
+
+    .aboutMeBox {
+        padding: 20px 10px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+    .personalDetails {
+        padding: 25px 38px 36px 44px;
+    }
+
+    .aboutBanner img {
+        margin-left: -60px;
+        width: 110%;
+        margin-bottom: -32px;
+    }
+
+    .userHedrImg {
+        margin: 7px 0;
+        margin-left: auto;
+    }
+
+    .headerRight .navbar-collapse {
+        margin-top: 10px;
+    }
+
+    .headerRight a {
+        margin: 7px 0;
+        margin-left: auto;
+    }
+
+    .headerRight {
+        text-align: right;
+    }
+
+    .headerRight .navbar-collapse {
+        margin-top: 18px;
+        position: absolute;
+        right: 0;
+        background-color: white;
+        width: 100%;
+        padding-right: 20px;
+    }
+
+    .headerRight a:last-child {
+        margin-bottom: 32px;
+    }
+
+    .faq {
+        margin-bottom: 110px;
+    }
+
+    .orderfirstBox {
+        padding: 0 10px;
+    }
+
+    .wid66px {
+        width: 100%;
+    }
+
+    .wd66 {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .taskForm {
+        margin-bottom: 125px;
+    }
+
+    .advanceSearch {
+        max-width: 90%;
+    }
+
+    .connecting .profileHead {
+        width: 70%;
+        margin-bottom: 46px;
+    }
+
+    .findStudent.expanding img {
+        margin-top: 0;
+    }
+
+    .findTasksField {
+        width: 100%;
+        padding: 11px 106px 11px 50px;
+    }
+
+    .freelanceStudent1 {
+        margin-top: 25px;
+    }
+
+    .freelanceMoney h2 {
+        margin-bottom: 25px;
+    }
+
+    .cityField {
+        width: 100%;
+        padding: 11px 15px 11px 50px;
+        font-weight: 400;
+        font-size: 16px;
+        color: #898A8D;
+        background: url(/assets/images/home/loction.svg) no-repeat scroll 20px 14px;
+    }
+
+    .taskbutton {
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        bottom: 0px;
+        padding: 15px;
+        font-size: 14px;
+        width: 100px;
+        /* height: unset; */
+        height: fit-content;
+    }
+
+    /* .customSearchField {
+        position: relative;
+        width: 210px;
+    } */
+
+    .bannerLogos {
+        /* display: flex;
+        justify-content: space-between;
+        background: #FFFFFF;
+        box-shadow: 0px 15px 32px rgba(0, 0, 0, 0.05);
+        border-radius: 100px;
+        align-items: center; */
+        padding: 15px 20px;
+    }
+
+    .swiper-wrapper {
+        text-align: center;
+    }
+
+    .banner .bannerLogos {
+        margin-top: 30px;
+    }
+
+    .bookNowBtn {
+        padding: 9px 16px;
+        font-size: 14px;
+    }
+
+    .profileBoxH3 {
+        font-size: 16px;
+    }
+
+    .profileBoxP {
+        font-size: 14px;
+        margin-top: 4px;
+    }
+
+    .taskBox {
+        padding: 20px 7px;
+        margin-bottom: 30px;
+    }
+
+    .taskBoxContent {
+        margin-left: 18px;
+    }
+
+    .width55 {
+        width: 80%;
+    }
+
+    .stdentSupport {
+        padding-top: 45px;
+        padding-bottom: 45px;
+        margin-bottom: 95px;
+    }
+
+    .laptopBox {
+        padding: 20px 15px;
+        margin-bottom: 35px;
+        width: 350px;
+    }
+
+    .bc1:before {
+        left: -65px;
+        top: 6px;
+    }
+
+    .bc2:before {
+        left: -62px;
+        top: 20px;
+    }
+
+    .bc3:before {
+        left: -63px;
+        top: 9px;
+    }
+
+    .findStudent img {
+        margin-top: -48px;
+    }
+
+    .findStudent {
+        padding-bottom: 30px;
+    }
+
+    .homeUsers {
+        margin-bottom: 80px;
+    }
+
+    .hireStdntBox {
+        padding: 28px 23px 28px 38px;
+    }
+
+    /* moneeb */
+
+    h2.head-sign-mb {
+        margin-bottom: 28px;
+    }
+
+    .signInStudentImg {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .signUpStudentForm {
+        margin-top: 55px;
+        padding-bottom: 0px !important;
+    }
+
+    .img1 {
+        padding-left: 55px;
+        margin-left: unset;
+    }
+
+    .mb35 .nameField {
+        padding: 10px 10px;
+        width: 94%;
+    }
+
+    /* .createFormLInput,
+    .ssnField_mobile {
+        width: 94%;
+    } */
+
+    .signUpStudentImg {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    /* student task description */
+
+    .mb-task-student .studentTaskDescpDiv {
+        padding: 15px;
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .mb-task-student .col-md-5 {
+        width: 47%;
+    }
+
+    .mb-task-student .col-md-2 {
+        width: 0px;
+    }
+
+    .studentDescription.mb-student-desp {
+        padding: 15px;
+    }
+
+    input.mb-task-earn {
+        padding: 15px 10px;
+    }
+
+    .img-mb-click2 {
+        position: fixed;
+        bottom: 10%;
+        right: 67px;
+        z-index: 999999;
+    }
+
+    .overlapImageCurve {
+        display: none;
+    }
+
+    .chatImg {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        object-fit: cover;
+        background: #C4C4C4;
+        border: 5px solid #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        margin-left: 9px;
+        margin-right: 10px;
+    }
+
+    .chatUser {
+        display: flex;
+        align-items: center;
+        height: 90px;
+        /* padding-left: 13px; */
+        padding-right: 10px;
+        position: relative;
+        padding-top: 12px;
+    }
+
+    .adjustingHeight2 .floatleftContent:first-child {
+        margin-top: 10px;
+    }
+
+    .chatHed.setResonive.adjustChatHed {
+        padding: 17px 10px 17px 10px;
+    }
+}
+
+@media (max-width: 800px) and (min-width: 576px) {
+    .aboutBanner img {
+        margin-bottom: -30px;
+    }
+
+    .customerDetai .col-md-7 {
+        width: 77%;
+    }
+
+    .tasks .bgNewTask .bgMobile.row {
+        justify-content: center;
+    }
+
+    .homeUserSlidr.homeUserSlidrResponsive .swiper-wrapper {
+        text-align: left !important;
+    }
+
+    .findStudent.last-baaner-hme {
+        margin-bottom: unset;
+        margin-right: unset;
+        margin-left: unset;
+    }
+
+    .findStudent.last-baaner-hme .homeLastBannerFamily_mobile .last-baner-padingz {
+        padding-bottom: 15px;
+    }
+
+    .findStudent.last-baaner-hme .homeLastBannerFamily_mobile .last-baner-padingz>h2 {
+        margin-left: 35px;
+    }
+
+    .findStudent.last-baaner-hme .homeLastBannerFamily_mobile .last-baner-padingz>.secondary.hireBtn {
+        margin-left: 40px;
+    }
+
+    .freelanceStudent {
+        padding-top: 0 !important;
+    }
+
+    .navbar-collapse .none {
+        display: none !important;
+    }
+
+    .also_in_tablet {
+        display: block !important;
+        position: absolute;
+        right: 50px;
+    }
+
+    .viewAllStCards .col-md-4 {
+
+        flex: 0 0 auto;
+        width: 48.33333333%;
+
+    }
+
+    #advanceSearchForm .bannerFields .customSearchField input {
+        height: 60px;
+
+    }
+
+    /* .banner.bannerMain .columnRevers {
+        flex-direction: column-reverse;
+    } */
+}
+
+@media (max-width: 800px) and (min-width: 768px) {
+    .fingerPrintsL.freelancerSignup .laptopMain.alignitem {
+        margin-left: 20px;
+        width: 100% !important;
+    }
+
+
+    #homeSearchForm .flex1.col-md-6.col-sm-12 .cityField.homePageCityField{
+        width: unset;
+    }
+    
+    .fingerPrintsL.freelancerSignup .fingerPrintImage_mobile .lptopImg{
+        width: 90%;
+        float: right;
+    }
+
+    .banner.bannerMain {
+        margin-bottom: 35px;
+    }
+
+    .freelancerSimple .freelancerSimpleLeft {
+        width: 48% !important;
+        padding-right: 5px;
+    }
+
+    .freelancerSimple .freelancerSimpleText {
+        width: 52% !important;
+        padding-left: 0;
+    }
+
+    .freelancerSimple .freelancerSimpleText .sethedwitd {
+        margin-left: 0;
+        margin-right: 0 !important;
+    }
+
+    .freelancerSimple .freelancerSimpleText .sethedwitd>h2 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .freelanceCircle .col-md-3 {
+        flex: 0 0 auto;
+        width: 33%;
+    }
+
+    .freelancerChoose .box {
+        margin-bottom: 30px !important;
+    }
+
+    .freelancerChoose .freelanceCircle {
+        padding-left: 10px;
+    }
+
+    .freelancerSignup .laptopMain.alignitem {
+        display: inline-flex;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .freelancerSignup .laptopMain.alignitem .col-md-7 {
+        padding-left: 0 !important;
+        /* padding-right: 0; */
+    }
+
+    .freelancerSignup .laptopMain.alignitem .col-md-5 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .freelancerSignup .laptopMain.alignitem .col-md-5>.laptopBox {
+        width: 305px;
+    }
+
+    .findStudent.freelanceMoney {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .frelance-last-baner .col-md-6>img {
+        width: auto;
+        float: right;
+    }
+
+    .aboutBanner.logInClass {
+        padding-top: 1.5rem !important;
+    }
+
+    .aboutBanner .aboutBannerMobileHeading {
+        margin-bottom: 8%;
+    }
+
+    .aboutBanner img {
+        width: 118% !important;
+    }
+
+    .aboutBanner .aboutBannerMobileHeading h6 {
+        margin-bottom: 0 !important;
+    }
+
+    .about-last-baner {
+        padding-top: 35px;
+    }
+
+    .findStudent h2 {
+        margin-left: 25px;
+    }
+
+    .expandingContent h4 {
+        margin-left: 25px;
+    }
+
+    .about-last-baner .col-md-5 {
+        display: inline-flex;
+    }
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .freelanceCircle .col-md-3 {
+        flex: 0 0 auto;
+        width: 33%;
+    }
+
+    .freelancerChoose .box {
+        padding: 33px 15px;
+    }
+
+    .yearFlexDiv {
+        margin-top: 5px;
+    }
+
+    /* .hobbiesModal,
+    .languageModal {
+        flex-direction: column;
+    } */
+
+    .hobbiesModal>div,
+    .languageModal>div {
+        margin-top: 5px;
+        /* width: 100% !important; */
+        padding: 2px;
+    }
+
+    .banner.bannerMain .columnRevers {
+        flex-direction: column-reverse;
+    }
+
+    .mainbannerImagePart {
+        justify-content: center;
+    }
+
+    #homeSearchForm {
+        padding-right: 20px;
+    }
+
+    #homeSearchForm .homePageCityField {
+        width: 100%;
+    }
+
+    .realCollegeMain .text__CollageMain .cpnnectAboutBtn {
+        margin: 0 auto;
+    }
+
+    .fingerPrintsL.freelancerSignup .laptopMain.alignitem .fingerPrintText_mobile .laptopBox {
+        justify-content: center;
+        margin-right: auto;
+    }
+
+    .advanceBodyParts::nth-child(3) {
+        border-left: 1px solid #EDEDED;
+        margin-top: 23px;
+    }
+
+    .frelance-last-baner .innerImage {
+        display: inline-flex;
+        justify-content: center;
+    }
+
+    .frelance-last-baner .innerImage img {
+        width: auto;
+        margin: 0;
+    }
+
+    .aboutBanner img {
+        margin-bottom: 55px;
+        width: 105%;
+        margin-left: -35px;
+    }
+}
+
+@media (max-width: 767px) and (min-width: 577px) {
+
+    #homeSearchForm .homePageCityField {
+        margin-left: 20px;
+        margin-bottom: 20px;
+        width: 96%;
+    }
+
+    .swiper-slide.swiper-slide-active {
+        display: inline-flex;
+        justify-content: center;
+    }
+
+    .banner.bannerMain .columnRevers {
+        margin-bottom: 50px;
+    }
+
+    .fingerPrintsL.freelancerSignup .laptopMain.alignitem .fingerPrintText_mobile .laptopBox {
+        margin-right: auto !important;
+    }
+
+    .findStudent.last-baaner-hme .homeLastBannerFamily_mobile .last-baner-padingz a {
+        margin-left: 40px;
+    }
+
+    .homeLastBannerFamily_mobile .last-baner-padingz img.homebabyimg {
+        margin-top: 0;
+    }
+
+    .findStudent.last-baaner-hme .homeLastBannerFamily_mobile .last-baner-padingz {
+        padding-bottom: 25px;
+    }
+}
+
+/* min-width */
+@media(min-width:575px) {
+
+    .studentDetailsImg .profileImgM {
+        width: 150px;
+        height: 150px;
+    }
+
+    .pl90 {
+        padding-left: 90px;
+    }
+
+    .bg-mobile-mb {
+        background: url("../images/home/taskNewBg.svg") no-repeat;
+        background-position: center;
+        background-size: contain;
+        padding-top: 50px;
+    }
+
+    .mr0 {
+        margin-right: unset !important;
+    }
+
+    .stepOne .mb35 {
+        margin-bottom: 40px;
+    }
+
+    .mb-create-acc {
+        margin-bottom: 33px;
+    }
+
+    input.createFormLInput.forgot-mb-pass {
+        margin-bottom: 10px;
+    }
+
+    .mb-pad-space {
+        margin-bottom: 10px !important;
+        margin-left: 5px;
+    }
+
+    /* commented for live in skills screen */
+    /* .mb35.with483 {
+        margin-bottom: 95px;
+    } */
+
+    .mb-1 {
+        margin-bottom: 12px !important;
+    }
+
+    .StepOneSelect .css-1rhbuit-multiValue {
+        padding: 14px 29px;
+    }
+
+    a.primary.finishBtn {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 24px;
+    }
+
+    .displayFlex.col-md-4 {
+        background: url(/assets/images/Vector333.png);
+        background-repeat: no-repeat;
+        background-position: top;
+        background-position-x: -500px;
+    }
+
+    .aboutBanner {
+
+        clip-path: polygon(100% 0%, 0% 0%, 0% 93.75%, 1% 93.75%, 2% 93.660714285714%, 3% 93.571428571429%, 4% 93.392857142857%, 5% 93.214285714286%, 6% 92.946428571429%, 7% 92.678571428571%, 8% 92.410714285714%, 9% 92.053571428571%, 10% 91.696428571429%, 11% 91.339285714286%, 12% 90.892857142857%, 13% 90.446428571429%, 14% 90%, 15% 89.642857142857%, 16% 89.196428571429%, 17% 88.75%, 18% 88.303571428571%, 19% 87.857142857143%, 20% 87.410714285714%, 21% 87.053571428571%, 22% 86.696428571429%, 23% 86.339285714286%, 24% 85.982142857143%, 25% 85.714285714286%, 26% 85.446428571429%, 27% 85.267857142857%, 28% 85.089285714286%, 29% 84.910714285714%, 30% 84.910714285714%, 31% 84.821428571429%, 32% 84.821428571429%, 33% 84.910714285714%, 34% 85%, 35% 85.089285714286%, 36% 85.267857142857%, 37% 85.535714285714%, 38% 85.714285714286%, 39% 86.071428571429%, 40% 86.339285714286%, 41% 86.696428571429%, 42% 87.053571428571%, 43% 87.5%, 44% 87.946428571429%, 45% 88.303571428571%, 46% 88.75%, 47% 89.196428571429%, 48% 89.642857142857%, 49% 90.089285714286%, 50% 90.535714285714%, 51% 90.982142857143%, 52% 91.339285714286%, 53% 91.785714285714%, 54% 92.142857142857%, 55% 92.410714285714%, 56% 92.767857142857%, 57% 93.035714285714%, 58% 93.214285714286%, 59% 93.392857142857%, 60% 93.571428571429%, 61% 93.660714285714%, 62% 93.75%, 63% 93.75%, 64% 93.75%, 65% 93.660714285714%, 66% 93.571428571429%, 67% 93.392857142857%, 68% 93.125%, 69% 92.946428571429%, 70% 92.678571428571%, 71% 92.321428571429%, 72% 91.964285714286%, 73% 91.607142857143%, 74% 91.25%, 75% 90.803571428571%, 76% 90.446428571429%, 77% 90%, 78% 89.553571428571%, 79% 89.107142857143%, 80% 88.660714285714%, 81% 88.214285714286%, 82% 87.767857142857%, 83% 87.321428571429%, 84% 86.964285714286%, 85% 86.607142857143%, 86% 86.25%, 87% 85.982142857143%, 88% 85.625%, 89% 85.446428571429%, 90% 85.178571428571%, 91% 85.089285714286%, 92% 84.910714285714%, 93% 84.821428571429%, 94% 84.821428571429%, 95% 84.821428571429%, 96% 84.910714285714%, 97% 85%, 98% 85.089285714286%, 99% 85.357142857143%, 100% 85.535714285714%);
+    }
+
+    .signUpStudent.customerSignin {
+        height: calc(100vh - 303px);
+    }
+
+    .aboutBanner .aboutBannerMobileHeading {
+        margin-bottom: 10%;
+    }
+
+    .formobileOnly {
+        display: none !important;
+    }
+
+    .hobbiesLanguageStyle {
+        padding: 0 5px;
+    }
+
+    #homeSearchForm .eror {
+        margin-left: 15px;
+    }
+
+    .advanceBodyParts .innerSetting:last-child{
+        width: 155px !important;
+    }
+}
+
+/* mobile devices*/
+
+@media(max-width:575px) {
+
+    .viewAllStCards {
+        padding-top: 10px;
+    }
+    .homePageCityField{
+        position: relative;
+    }
+    /* .homePageCityField div[class^='-menu'],
+    .homePageCityField div[class*='-menu'] {
+        position: relative;
+    } */
+
+    .termsPage p{
+        font-size: 16px !important;
+    }
+
+    .workingTime::after {
+        display: none;
+        right: 64.5%;
+    }
+
+    .setHeightForMobileInHireStudent {
+        height: 510px !important;
+    }
+
+    .PersonalDetailsHed p.mb-1 {
+        margin-bottom: 0 !important;
+    }
+    /* customer task detail page */
+    .orderContentMain {
+        margin-top: 10px;
+    }
+
+    .bDate .dateSubFlex {
+        padding: 0px 2px;
+    }
+
+    .wd59 {
+        width: 100% !important;
+    }
+
+    .notificationBaar a {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 22px;
+        text-align: center;
+        color: #82D051;
+        border: 1px solid #82D051;
+        filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.08));
+        border-radius: 50px;
+        padding: 5px 9px;
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    .SignupConfirmEmail .innerText h5 {
+        font-size: 15px;
+    }
+
+    .mergeImg .profileImgM {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+
+    .mergeImg img:not(:first-child) {
+        margin-left: -20px;
+    }
+
+    .orderfirstBoxP>div {
+        margin-right: 15px;
+    }
+
+    .setTsdk p {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+    }
+
+    .connectsSpan {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+        color: white;
+        width: 42px;
+        text-align: center;
+        display: inline-block;
+        margin-left: 8px;
+        height: 25px;
+        background: #82D051;
+        border: 1px solid #82D051;
+        border-radius: 17px;
+    }
+
+    .pd0101 {
+        padding: 0 10px;
+        word-break: break-word;
+        margin-top: -8px;
+    }
+
+    .payBtnDiv {
+        display: flex;
+        justify-content: center !important;
+    }
+
+    a.secondary.common.cancelBtn1 {
+        background: #D9D6D6;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        color: white;
+        border: unset;
+        width: 150px;
+        margin-left: unset;
+    }
+
+    .common {
+        width: 150px;
+        height: 45px;
+    }
+
+    .mtT10px {
+        margin-top: 10px !important;
+    }
+
+    /*  */
+    .orderDetailRight.taskDescriptionClass {
+        display: block;
+        padding: 25px 15px;
+        min-height: 100px;
+    }
+
+    /*RespChat:class display block on responsive of Mesasges */
+    .chatBar.RespChat .setResonive.col-md-8 {
+        display: block !important;
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+
+    .writeMessages1stdiv {
+        width: 100%;
+        padding-left: 19px;
+        margin-left: 5px;
+    }
+
+    /*RespChat:class display none when click from user list */
+    .chatBar.RespChat .borderRight.col-md-4 {
+        display: none !important;
+    }
+
+    .adjustingHeight {
+        border-top: 0.2px solid #C4C4C4;
+        max-height: 350px;
+    }
+
+    .mobile-black {
+        color: black !important;
+    }
+
+    .mobile-green {
+        color: #82D051 !important;
+        display: inline !important;
+    }
+
+    .bc2 {
+        background-color: #FFC700CC;
+        margin-left: 32px;
+    }
+
+    .createAccountForm .mb35.d-flex.mb-dflex,
+    .signUpStudentForm .mb35.d-flex.mb-dflex {
+        width: 94%;
+    }
+
+    .signUpStudentForm .mb35.d-flex.mb-dflex .last-mb>input {
+        width: 100%;
+    }
+
+    .font40 {
+        font-size: 30px !important;
+        line-height: 35px !important;
+        margin-top: 60px;
+    }
+
+    /* .connectPartialContent h2 {
+        font-size: 30px;
+        line-height: 40px;
+    } */
+
+    .yourStatsDetails_client .mb-4 {
+        margin-bottom: 0px !important;
+    }
+
+    .aboutBanner {
+        text-align: center;
+    }
+
+    .aboutBanner h2 {
+        padding-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .aboutBanner h6 {
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    .createAccount.mbb-heading-font h2 {
+        font-size: 25px;
+        line-height: 50px;
+        letter-spacing: 1px;
+        font-weight: 700;
+        margin-bottom: 35px;
+    }
+
+    .mb-skills-signup {
+        margin-bottom: 18px !important;
+    }
+
+    .gnder.pOptions.d-flex {
+        margin-bottom: 0px !important;
+        justify-content: space-between !important;
+        
+    }
+
+
+    p.mb-1.mb-skills-para {
+        margin-bottom: 18px !important;
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .pOptions.setStepOneR .selectGEndrDiv .secondary.gender-mb {
+        width: 81px !important;
+        height: 35px !important;
+    }
+
+    .finishBtn {
+        background: #82D051;
+        color: white;
+        padding: 8px 45px;
+        box-shadow: 0px 4px 20px rgb(0 0 0 / 8%);
+        border-radius: 32px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+    }
+
+    .createAccountForm .gnder.d-flex .relative input {
+        transform: translate(5px, 0px);
+    }
+
+    input.createFormLInput.input-mb-create {
+        width: 99%;
+    }
+
+    .StepOneSelect.StepLocationSelect {
+        width: 99%;
+    }
+
+    .selectGEndrDiv {
+        margin-right: 7px;
+        margin-bottom: 5px;
+    }
+
+    form.SignupConfirmEmail.stepForm.mb-stepone-mrgn {
+        overflow: hidden !important;
+    }
+
+    label.secondary.gender-mb {
+        border: 2px solid #82D051;
+        font-size: 12px;
+        line-height: 22px;
+        width: 88px !important;
+    }
+
+
+    h2 {
+        font-size: 30px !important;
+        line-height: 38px;
+    }
+
+    h6 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    h4 {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    /* when loged in for 5 pages nav */
+    .navMain5pagesSignedIn .logInClass {
+        margin-top: 63px;
+    }
+
+    /*  */
+    .img-click-1 {
+        cursor: pointer;
+        width: 90px;
+    }
+
+    .hero-bg-img {
+        margin-top: unset;
+    }
+
+    .stdProfilCTN .sp3 {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .stdProfilCTN .sp4 {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .stdProfilCTN .aboutMainhed {
+        font-size: 14px;
+        font-weight: 500;
+        margin-right: 5px;
+    }
+
+    .stdProfilCTN .sp5 {
+        color: #82D051;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .stdProfilCTN {
+        margin: 12px 0 10px 0;
+    }
+
+    /* .dashboardheader .navbar {
+        height: 63px;
+    } */
+    .profileBox .profileAbout .overflowText {
+        height: 75px;
+        min-height: 75px;
+    }
+
+    .header .navbar {
+        height: 63px;
+    }
+
+    .img-mb-click1 {
+        right: 5px;
+    }
+
+    .img-mb-click3 img {
+        position: fixed;
+        bottom: 12%;
+        right: 3px;
+    }
+
+    .img-mb-click2 {
+        bottom: 9%;
+        right: 85px;
+    }
+
+    .CustomerRespSingleChat {
+        margin-top: 115px;
+    }
+
+    .studentDetails.setStduentDtails .mb-2 {
+        margin-left: -88px;
+        margin-bottom: 5px !important;
+    }
+
+    .singleChathed span {
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Manrope';
+        margin-left: 10px;
+        color: black;
+    }
+
+    .single-chat {
+        background: #FFFFFF;
+        border: 0.2px solid #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        /* margin-left: -10px;
+        margin-right: -10px; */
+        margin-bottom: 3px;
+    }
+
+    .chatBody.single-chat {
+        border: none !important;
+    }
+
+    .chatBody.single-chat .chatImg {
+        margin-top: unset;
+    }
+
+    .single-chat .chatUserContentH5 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        color: #000000;
+        /* margin-bottom: 25px; */
+    }
+
+    .single-chat .chatUserContentp {
+        display: none;
+    }
+
+    .single-chat .chatUserTimeMain {
+        position: absolute;
+        top: 34px;
+        left: 115px;
+    }
+
+    .single-chat .chatUser {
+        height: 70px;
+        padding-top: unset;
+    }
+
+    .single-chat .labelImg {
+        display: none;
+    }
+
+    .singleChathed {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        margin-left: 27px;
+    }
+
+    .rContentP {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 15px;
+        color: #9C9C9C;
+        margin-top: 3px;
+    }
+
+    .typedMsgsP {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        color: #FFFFFF;
+        word-break: break-all;
+    }
+
+    .typedMsgs {
+        background: #82D051;
+        border-radius: 20px;
+        padding: 5px 15px;
+        display: flex;
+        margin-left: auto;
+        margin-right: 56px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        width: max-content;
+        max-width: 80%;
+    }
+
+    .floatleftContent .rContentHed {
+        text-align: left;
+    }
+
+    .rTypedMsgs {
+        background: #F8F8F8;
+        border-radius: 20px;
+        padding: 5px 15px;
+        display: flex;
+        width: 80%;
+        margin-left: 59px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        width: max-content;
+        max-width: 80%;
+    }
+
+    .adjustingHeight2 {
+        display: flex;
+        flex-direction: column;
+        /* justify-content: space-between; */
+        height: calc(100vh - 420px);
+        overflow: auto;
+        padding-bottom: 20px;
+    }
+
+    .inputMsgField {
+        padding: 11px 10px;
+    }
+
+    .singleChathed img {
+        margin-top: -5px;
+    }
+
+    .sendMsgBtn {
+        font-family: 'Manrope';
+        font-weight: 700;
+        font-size: 12px;
+        text-align: center;
+        box-shadow: none;
+        color: #FFFFFF;
+        width: 77px;
+        margin-left: 14px;
+        display: flex;
+        height: 30px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .writeMessages {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 0;
+        border-top: 0.2px solid #C4C4C4;
+        border-bottom: 0.2px solid #C4C4C4;
+    }
+
+    .rContentHed {
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 15px;
+        color: #000000;
+        text-align: right;
+    }
+
+    .chatUserContentp {
+        width: 230px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .ChatResonive1NamesMain {
+        margin: 100px 20px 0 20px;
+    }
+
+    .chatBody {
+        border-bottom: 0.2px solid #C4C4C4;
+        position: relative;
+        display: block;
+    }
+
+    .activeUserLight {
+        position: absolute;
+        top: 39%;
+        left: 10px;
+    }
+
+    .bannerLogos img:not(:first-child) {
+        width: auto !important;
+        height: 90px !important;
+    }
+
+    .chatUser {
+        display: flex;
+        align-items: center;
+        height: 90px;
+        padding-left: 10px;
+        padding-right: 10px;
+        position: relative;
+    }
+
+    .chatUserTimeMain {
+        position: absolute;
+        top: 15px;
+        right: 40px;
+    }
+
+    .chatMainContainer {
+        border: 1px solid rgba(196, 196, 196, 0.5);
+        margin-top: 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-right: 10px;
+        margin-bottom: 79px;
+    }
+
+    .ChatResonive1NamesMain h2 {
+        margin-bottom: 25px;
+    }
+
+    .chatSrch .findTasksField {
+        border: 1px solid #EAEFF3;
+        padding-right: 85px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        margin-bottom: 12px;
+    }
+
+    .chatSrch .taskbutton {
+        width: 47px !important;
+        height: 21px;
+        right: 30px;
+        top: 14px;
+        font-size: 12px;
+        padding: unset;
+    }
+
+    .spacedalo {
+        margin: unset;
+    }
+
+    .advanceBodyDistance>div {
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        height: 15px;
+    }
+
+    .mb56 {
+        margin-bottom: 0;
+    }
+
+    .aboutList li {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        color: #9C9C9C;
+    }
+
+    .ratingStars .pretty {
+        margin-top: -14px;
+    }
+
+    .ratingFeatures {
+        /* display: flex; */
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #EDEDED;
+        flex-wrap: wrap;
+        margin-top: 15px;
+        padding: 0;
+    }
+
+    .ratingPartsHed {
+        margin-right: 0;
+        width: 50%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .sStar {
+        width: 33%;
+        margin-top: -4px;
+    }
+
+    .publishP {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 12px;
+        letter-spacing: 0.75px;
+        color: #000000;
+        margin-top: 10px;
+    }
+
+    .aboutMeBox {
+        padding: 20px 20px;
+    }
+
+    .workViewAll {
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 24px;
+        text-align: center;
+        color: #C4C4C4;
+        padding: 10px 35px;
+        border: 1px solid #C4C4C4;
+        border-radius: 25px;
+        display: inline-block;
+    }
+
+    .aboutMeBox h4 {
+        font-size: 20px;
+    }
+
+    .workSubHed {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 22px;
+        color: #000000;
+    }
+
+    .none {
+        display: none !important;
+    }
+
+    .mb-9 {
+        margin-bottom: 9px;
+    }
+
+    /* Contact Us */
+    .hero-bg-img {
+        height: 311px;
+    }
+
+    .hero-bg-img {
+        padding: 0px 10px;
+    }
+
+    .mb35.d-flex.mb-dflex.field-contct {
+        flex-direction: column;
+        margin-bottom: 0px;
+    }
+
+    .contact-field-1 {
+        margin-right: 0px;
+        margin-bottom: 30px;
+
+    }
+
+    .contact-field-2 {
+        margin-left: 0px;
+        margin-bottom: 30px;
+
+    }
+
+    .contact-field-3 {
+        margin-bottom: 30px;
+    }
+
+    input.nameField.mb-namefield {
+        height: 55px;
+    }
+
+    p.mb-1.p-contact-mb {
+        font-size: 16px;
+        letter-spacing: 0.75px;
+    }
+
+    .mb-namefield {
+        font-size: 15px !important;
+    }
+
+    form.contact-us-mb.mb-css-1.mb-css-5 {
+        padding: 0px 10px;
+        margin-top: 120px;
+    }
+
+    .btn-contact-1 {
+        margin-bottom: 50px;
+    }
+
+    .profileBtn button {
+        padding: 12px 27px;
+        font-size: 12px;
+    }
+
+    .aboutContent {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        color: #9C9C9C;
+        margin-bottom: 12px;
+    }
+
+    .tickp {
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 24px;
+        color: #000000;
+        display: inline-block;
+    }
+
+    .aboutMainhed {
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 24px;
+        color: #000000;
+    }
+
+    .fancySpan {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 22px;
+        letter-spacing: 0.75px;
+        color: #82D051;
+        background: #FFFFFF;
+        border: 1.5px solid rgba(130, 208, 81, 0.5);
+        border-radius: 10px;
+        padding: 4px 12px;
+        margin-right: 12px;
+    }
+
+    .ml40 {
+        margin-left: -40px;
+    }
+
+    .ml0 {
+        margin-left: 0 !important;
+    }
+
+    .cMyProfile h2 {
+        text-align: center;
+    }
+
+    .bgNotiLines h2 {
+        text-align: center;
+    }
+
+    .block {
+        display: block !important;
+    }
+
+    .mleft {
+        margin-left: -94px;
+    }
+
+    .PersonalDetailsHed h4 {
+        font-size: 18px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 24px;
+    }
+
+    .PersonalDetailsHed {
+        margin-top: 18px !important;
+        display: flex;
+        align-items: self-end;
+    }
+
+    .PersonalDetailsHed p {
+        text-align: left;
+        font-weight: 600;
+    }
+
+    .profileField {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        background: #F8F8F8;
+        border: 1px solid #EAEFF3;
+        border-radius: 15px;
+        color: #C4C4C4;
+        padding: 9px 24px;
+        box-shadow: none;
+        width: 100%;
+    }
+
+    .personalDetails {
+        padding: 20px 16px 40px 16px;
+    }
+
+    .orderDataTable .rdt_TableHeader>div {
+        font-family: 'Manrope';
+        font-weight: 700 !important;
+        font-size: 18px !important;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        color: #14142B !important;
+        text-align: center;
+    }
+
+    .orderDataTable {
+        margin-top: 50px;
+        margin-bottom: 80px;
+    }
+
+    .studentHed p {
+        margin-left: 14px;
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 22px;
+        color: #000000;
+    }
+
+    .mTop10 {
+        margin-top: 20px;
+    }
+
+    .orderDataTable .rdt_TableHeader {
+        border-bottom: 1px solid #EEEEEE;
+        padding-left: 0px !important;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        border-radius: 20px;
+        padding-right: 0;
+    }
+
+    .rdt_Table .rdt_TableBody .rdt_TableRow .rdt_TableCell:first-child {
+        min-width: 170px;
+    }
+
+    .rdt_Table .rdt_TableHead .rdt_TableCol:first-child {
+        min-width: 167px;
+    }
+
+    .bankDetails h2 {
+        font-size: 30px !important;
+        margin-bottom: 40px !important;
+        line-height: 40px !important;
+    }
+
+    .stepOne.bgNotiLines {
+        padding-top: 90px;
+    }
+
+    .mb-42 h5 {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        color: #9C9C9C;
+        margin-bottom: 10px !important;
+    }
+
+    .bankDetails h4.mb-1 {
+        font-size: 15px;
+        margin-bottom: 10px !important;
+    }
+
+    .feedbackField {
+        background: #FFFFFF;
+        border: 1px solid #EAEFF3;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        color: #C4C4C4;
+        width: 100%;
+        text-align: center;
+        padding: 9px 28px;
+        opacity: 0.8;
+        min-height: 125px;
+    }
+
+    .mb-42 {
+        margin-bottom: 40px;
+    }
+
+    .ratingBox h6 {
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 30px;
+        letter-spacing: 0.75px;
+        color: #82D051;
+    }
+
+    .ratingStarss img:last-child {
+        margin-right: 0 !important;
+    }
+
+    .ratingStarss {
+        text-align: center;
+    }
+
+    .feedabckBtn {
+        font-size: 12px;
+    }
+
+    .formBtnSet a {
+        flex: 1;
+    }
+
+    .formBtnSet.justifyRight {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .mr-9 {
+        margin-right: unset;
+        margin-left: 15px;
+    }
+
+    .ratingBox {
+        padding: 9px 26px;
+        background: #FFFFFF;
+        border: 1px solid #EAEFF3;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        margin: 0 2px;
+    }
+
+    .imgBorder {
+        margin-bottom: 0;
+    }
+
+    /* .createFormUploadBtns img {
+        margin: 30px 8px 0px 8px;
+        width: 38%;
+    } */
+
+    .fntsize28 {
+        font-size: 25px;
+    }
+
+    .gnder.d-flex.mb-non-mar span:first-child {
+        margin-right: 10px;
+    }
+
+    .orderDetailRight .orderfirstBoxP p {
+        color: #82D051;
+        font-family: 'Manrope';
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .orderDetailRight .orderfirstBoxP h5 {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        color: #9C9C9C;
+    }
+
+    .orderDetailRight {
+        background: #FFFFFF;
+        border: 1px solid #EDEDED;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.04);
+        border-radius: 20px;
+        padding: 27px 0;
+        display: flex;
+        margin-bottom: 17px;
+        justify-content: center;
+    }
+
+    .wd66 .orderfirstBox:first-child .orderfirstBoxP div {
+        margin-right: 0;
+    }
+
+    .wd66 .orderfirstBox:last-child {
+        padding-left: 40px;
+    }
+
+    .classicalBtn {
+        font-weight: 500 !important;
+        font-size: 13px !important;
+        background: #FFFFFF;
+        border: 1.5px solid #D3D3D3;
+        border-radius: 26px;
+        padding: 4px 7px;
+    }
+
+    .orderfirstBoxP {
+        display: flex;
+        padding-bottom: 10px;
+    }
+
+    .alignIt {
+        text-align: center;
+    }
+
+    .gnder .secondary {
+        margin-right: unset;
+    }
+
+    .wid66px {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    .gnder.wid66px a {
+        flex: 1;
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+    }
+
+    .bgNotiLines {
+        background: unset;
+        padding-top: 140px;
+        padding-bottom: 130px;
+    }
+
+    .studentDetails h4 {
+        display: none;
+    }
+
+    .studentDetailsImg img {
+        width: 132px;
+        height: 132px;
+        margin-top: -6px;
+    }
+
+    .orderContentMain {
+        margin-top: 65px;
+    }
+
+    .inviteStdCard_class {
+        margin: 0;
+        margin-bottom: 15%;
+    }
+
+    .studentContent {
+        text-align: center;
+
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    .studentContent .block.ml-3 {
+        text-align: left;
+    }
+
+    .studentContent div:last-child {
+        margin-left: -39px;
+    }
+
+    .studentDetails {
+        position: relative;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        padding: 30px 40px 30px 39px;
+        text-align: center;
+        margin-bottom: 17px;
+    }
+
+    .upH5 {
+        font-family: 'Manrope';
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 25px;
+        color: #000000;
+    }
+
+    .belowH5 {
+        font-family: 'Manrope';
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 19px;
+        color: #000000;
+        margin-bottom: 17px;
+    }
+
+    .studentContent span {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .studentDetails .studentContent span {
+
+        font-size: 13px;
+    }
+
+    .viewAllbtn {
+        font-size: 12px;
+        font-weight: 600;
+        width: 112px !important;
+        height: 40px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .stdntBtn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: unset;
+    }
+
+    .padding0 .swiper {
+        padding-bottom: 0 !important;
+    }
+
+    .notificationsMainDiv {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .bgNotiLines {
+        padding-top: 137px;
+    }
+
+    .notificationH5 {
+        font-weight: 600;
+    }
+
+    .notificationP {
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .notification {
+        padding: 10px;
+        margin-bottom: 16px;
+    }
+
+    .profileStdAvalible .workPoint label {
+        font-size: 18px;
+    }
+
+    .notificationP.text-dark {
+        font-size: 14px;
+        line-height: 30px;
+
+    }
+
+    .stdDetailProfile .fancySpan {
+        font-size: 12px !important;
+    }
+
+    .aboutMeBox .ratingFeatures {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        border-bottom: none;
+    }
+
+    .ratingComment {
+        padding-bottom: 0px;
+     }
+
+    .notification {
+        background: #fff !important;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        padding: 10px;
+        margin-bottom: 16px;
+        display: flex;
+        align-items: center;
+    }
+
+    .underLine {
+        text-decoration: underline;
+    }
+
+    .tasksHed {
+        font-family: 'Manrope';
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 24px;
+        color: black;
+    }
+
+    .taskField {
+        background: #F8F8F8;
+        border: 1px solid #EAEFF3;
+        border-radius: 15px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        color: #C4C4C4;
+        padding: 10px 23px;
+        width: 100%;
+        box-shadow: none;
+    }
+
+    .mb24 {
+        margin-bottom: 18px;
+    }
+
+    .testRadiobtn {
+        width: 115px;
+        /* height: 45px; */
+        font-family: 'Manrope';
+        font-weight: 600;
+        font-size: 12px;
+        text-align: center;
+        background: #FFFFFF;
+        border: 1px solid #82D051;
+        box-shadow: 0px 4px 20px rgb(0 0 0 / 2%);
+        padding: 8px 20px;
+        color: #82D051;
+        display: inline-block;
+        border-radius: 10px;
+    }
+
+    .kroset {
+        width: 100%;
+    }
+
+    .taskField {
+        border-radius: 10px;
+    }
+
+    .addDayBtn {
+        text-decoration: none;
+        padding: 11px 15px;
+        width: 100px;
+        font-size: 13px;
+    }
+
+    .stOneDivResp img {
+        width: 80%;
+    }
+
+    .signUpStudentForm .mb-create-acc .alignLoader {
+        left: 8% !important;
+    }
+
+    .footerMenu {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .mr0 {
+        margin-right: unset !important;
+    }
+
+    .mt78 {
+        margin-top: 119px;
+        padding-top: 10px;
+    }
+
+    .textCenter {
+        text-align: center;
+    }
+
+    .myStudentsBtn {
+        font-family: 'Manrope';
+        font-weight: 700;
+        font-size: 12px;
+        text-align: center;
+        text-transform: capitalize;
+        padding: 12px;
+        width: 150px;
+        border: 2px solid #82D051;
+        margin-right: 10px;
+        border-radius: 39px;
+        height: 42px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .wd20 {
+        width: 20%;
+    }
+
+    .setHeghtMessage {
+        min-height: 111px;
+    }
+
+    .createTaskBtn {
+        background: #82D051;
+        border: unset;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 26px;
+        font-family: 'Manrope';
+        font-weight: 700;
+        font-size: 13px;
+        text-align: center;
+        margin: auto;
+        width: 150px;
+        display: inline-block;
+        height: 43px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mb0 {
+        margin-bottom: -15px;
+    }
+
+    .myStudentsBtnMain {
+        margin-top: 35px;
+        margin-bottom: 100px;
+    }
+
+    .viewAllStudents {
+        margin-top: 120px;
+        margin-bottom: -40px;
+    }
+
+    .viewAllStudents h2 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .advanceSearchHed h6 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .check__Iacknowledge p {
+        font-size: 14px !important;
+        line-height: 22px;
+    }
+
+    .check__Iacknowledge .agreeCheckBox {
+        width: 30px;
+    }
+
+    .profileBox {
+        margin-bottom: 80px;
+        min-width: 325px !important;
+        padding-bottom: 25px;
+    }
+
+    .profileBox .profileBtn {
+        padding-top: 8px;
+    }
+
+    .viewStudentsField input {
+        margin-right: unset;
+        font-size: 12px;
+        margin-bottom: 18px;
+    }
+
+    .viewAllStudents .taskbutton {
+        height: 60px;
+        padding: 10px 5px;
+    }
+
+    /* .advanceSearchBody .advanceBodyParts:first-child{
+        margin-left: 20px;
+    } */
+
+    .advanceSearchHed {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    /* commented for home page */
+    /* .profileImg img {
+        margin-top: -30%;
+    } */
+    .imageForMoreTask {
+        padding: 7.5px 1px;
+    }
+
+    .accordion-item .show .accordion-body p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .connectPartialContent h2,
+    .connectPartialContent p {
+        text-align: left;
+    }
+
+    .connectPartial .connectPartialContent h2,
+    .connectPartial .connectPartialContent p {
+        text-align: center !important;
+    }
+    .connectPartial .connectPartialContent p {
+        margin-bottom: 25px;
+    }
+
+    .bgNewTask .profileHead h2 {
+        margin-left: 7%;
+        margin-right: 7%;
+    }
+
+    .aboutBanner .aboutBannerMobileHeading .seth6abou {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .connecting .profileHead .subhead {
+        font-size: 16px;
+    }
+
+    .stdProfile .profileBox {
+        margin-bottom: 50px;
+    }
+
+    .tasks .bgNewTask .profileHead {
+        width: 100%;
+    }
+
+    .advanceSearch {
+        max-width: 100%;
+        margin-top: 26px;
+        padding: 29px 23px 16px 30px;
+        margin-bottom: 120px;
+    }
+
+    .advanceSelect {
+        padding: 8px 13px 8px 14px;
+        font-size: 15px;
+    }
+
+    /* .selectDiv select {
+        margin-right: 7px;
+        width: 47%;
+    } */
+
+    .popup__popup-box .popup__box {
+        /* margin: 0 auto; */
+        padding: 15px 22px;
+        width: 88%;
+        max-height: 80vh;
+    }
+
+    .popup__popup-box .popper__mainHeading {
+        font-size: 26px;
+        line-height: 38px;
+
+        margin-bottom: 15px;
+    }
+
+    .popup__popup-box .popper__body {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .text__CollageMain {
+        order: 0;
+        margin-top: 25px;
+    }
+
+    .img__CollageMain {
+        order: 1;
+    }
+
+    .freelanceStudent .mobileStudentText h2 {
+        font-size: 32px !important;
+    }
+
+    .freelanceStudent .mobileStudentText h6 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .freelancerSimple .col-md-6 h6.setResonive1 {
+        padding-bottom: 0 !important;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .freelancerSignup .profileHead h6.subhead {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .advanceSearchBody {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .advanceBodyParts {
+        width: 100%;
+        max-width: 100%;
+        border-right: unset;
+    }
+
+    .innerSetting {
+        width: 100%;
+        text-align: left;
+        margin: unset;
+    }
+
+    .advanceBodyDistance {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .advanceBodyDistance>div {
+        margin-bottom: 10px;
+    }
+
+    .innerSetting .ratingStars img {
+        margin-top: -5px;
+    }
+
+    .advanceBodyDistance .state.p-success-o {
+        margin-top: -1px;
+    }
+
+    .profileAbout {
+        text-align: left;
+    }
+
+    .profileContent {
+        text-align: left;
+        margin-top: 10px;
+    }
+
+    .profileBoxSubhed {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .bookNowBtn {
+        padding: 12px 27px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .bgNewTask .profileHead .subhead {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .freelancerChoose .profileHead h6.subhead {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .profileAbout {
+        border-bottom: 1px solid #EDEDED;
+        padding-bottom: 5px;
+        margin-bottom: 12px;
+        padding-top: 10px;
+    }
+
+    .advanceBodyParts .pretty .state label {
+        position: initial;
+        display: inline-block;
+        font-weight: 500;
+        margin: 0;
+        color: #9C9C9C;
+        text-indent: 3em;
+        min-width: calc(1em + 2px);
+        font-size: 15px;
+    }
+
+    .advanceBodyParts h5 {
+        font-weight: 600;
+        font-size: 15px;
+        margin-bottom: 12px !important;
+    }
+
+    .advanceBodyParts {
+        width: 100%;
+        max-width: 100%;
+        border-right: unset;
+        margin-bottom: 13px;
+    }
+
+    .faq {
+        margin-bottom: unset;
+        padding-bottom: 50px;
+    }
+
+    .faq .taskbutton {
+        width: 105px !important;
+        height: 42px;
+        font-weight: 700;
+        padding: 0;
+    }
+
+    .faq .faqSearchBtnField {
+        width: 100%;
+        padding: 12px 28px 12px 25px;
+        font-weight: 400;
+        font-size: 12px;
+        color: #898A8D;
+        background: url(/assets/images/home/Search.png) no-repeat scroll 20px 9px;
+    }
+
+    .faqSec {
+        padding-top: 20px;
+        background: url("/assets/images/responsive Linesss.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .findStudent.expanding h2 {
+        font-size: 24px;
+    }
+
+    .fh4 {
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 50px;
+    }
+
+    .th4 {
+        font-weight: 700;
+        line-height: 40px;
+        color: #FFFFFF;
+        text-transform: unset;
+        font-size: 12px;
+    }
+
+    .expandingContent h4 {
+        margin-left: 0;
+    }
+
+    .sh4 {
+        font-weight: 500;
+        line-height: 20px;
+        font-size: 12px;
+        color: #FFFFFF;
+        text-transform: inherit;
+        /* width: 65%; */
+    }
+
+    .findStudent.expanding {
+        background: url(/assets/images/about/bglastsec.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .findStudent.expanding img {
+        margin-top: -178px;
+    }
+
+    /* .faqSearchBtnField */
+    .faqSec p {
+        font-size: 11px;
+        font-weight: 400;
+        color: #000000;
+        /* line-height: 30px; */
+    }
+
+    .faqSec .accordion-item {
+        margin-bottom: 20px;
+    }
+
+    .faqSec .viewAllbtn {
+        margin-top: 20px;
+        width: 111px !important;
+        height: 39px;
+        font-size: 12px;
+        margin-top: 30px;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        padding: 0;
+        font-weight: 600;
+    }
+
+    .faqSec .accordion-button {
+        padding: 13px 15px;
+        align-items: center;
+    }
+
+    .setResonive1 {
+        display: block !important;
+        padding-bottom: 5%;
+    }
+
+    .stdfreeLanceBanerBlowBtn {
+        margin-top: 0;
+    }
+
+    /* .setTab{
+        display: none !important;
+    } */
+    /* .setTab1 {
+        display: block !important;
+    } */
+
+    .studentDetailModalBody {
+        padding: 10px 18px !important;
+    }
+
+    /* make mb 0 for about */
+    .connecting .profileHead {
+        width: 90%;
+        margin-bottom: 0px;
+    }
+
+    .connecting .profileHead h2 {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .connectPartialContent {
+        text-align: center;
+        margin-left: unset;
+    }
+
+    .freelanceBtn {
+        /* margin-left: auto; */
+        margin-right: auto;
+        font-size: 14px;
+        width: 115px !important;
+        height: 39px;
+        font-weight: 600;
+    }
+
+    .findStudentAbout.expanding .expandingContent h2 {
+        font-weight: 600;
+    }
+
+    .findStudentAbout.expanding .expandingContent .sh4 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .findStudentAbout.expanding .expandingContent .fh4,
+    .findStudentAbout.expanding .expandingContent .th4 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+    .connecting {
+        background: url(/assets/images/studentfreelance/bflineee.png);
+        background-position: center 184px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        /* padding-bottom: 96px; */
+    }
+
+    .hireStudent {
+        background: unset;
+    }
+
+    .viewMOreSPecial {
+        font-weight: 600;
+        text-decoration: underline;
+    }
+
+    .hireStudent.inpiration .hireStdntBox {
+        padding: 18px 11px 5px;
+    }
+
+    .hireStudent.inpiration {
+        background: url(/assets/images/about/Group8817.png);
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+
+        height: unset;
+        margin-bottom: 0px;
+        padding-bottom: 50px;
+
+    }
+
+    /* .faqBtnDiv {
+        margin-top: -23px;
+    } */
+
+    .faqSearchBtn {
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .aboutBanner {
+        background: url(/assets/images/about/aboutBackgroundMobile.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: 30px;
+        /* clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 1% 100%, 2% 99.909090909091%, 3% 99.909090909091%, 4% 99.818181818182%, 5% 99.727272727273%, 6% 99.545454545455%, 7% 99.454545454545%, 8% 99.272727272727%, 9% 99.090909090909%, 10% 98.909090909091%, 11% 98.636363636364%, 12% 98.454545454545%, 13% 98.181818181818%, 14% 97.909090909091%, 15% 97.636363636364%, 16% 97.363636363636%, 17% 97%, 18% 96.727272727273%, 19% 96.454545454545%, 20% 96.090909090909%, 21% 95.818181818182%, 22% 95.454545454545%, 23% 95.090909090909%, 24% 94.818181818182%, 25% 94.454545454545%, 26% 94.181818181818%, 27% 93.818181818182%, 28% 93.545454545455%, 29% 93.272727272727%, 30% 93%, 31% 92.727272727273%, 32% 92.454545454545%, 33% 92.272727272727%, 34% 92%, 35% 91.818181818182%, 36% 91.636363636364%, 37% 91.454545454545%, 38% 91.272727272727%, 39% 91.181818181818%, 40% 91.090909090909%, 41% 91%, 42% 91%, 43% 90.909090909091%, 44% 90.909090909091%, 45% 90.909090909091%, 46% 91%, 47% 91%, 48% 91.090909090909%, 49% 91.181818181818%, 50% 91.363636363636%, 51% 91.454545454545%, 52% 91.636363636364%, 53% 91.818181818182%, 54% 92%, 55% 92.272727272727%, 56% 92.454545454545%, 57% 92.727272727273%, 58% 93%, 59% 93.272727272727%, 60% 93.545454545455%, 61% 93.909090909091%, 62% 94.181818181818%, 63% 94.454545454545%, 64% 94.818181818182%, 65% 95.181818181818%, 66% 95.454545454545%, 67% 95.818181818182%, 68% 96.090909090909%, 69% 96.454545454545%, 70% 96.727272727273%, 71% 97.090909090909%, 72% 97.363636363636%, 73% 97.636363636364%, 74% 97.909090909091%, 75% 98.181818181818%, 76% 98.454545454545%, 77% 98.636363636364%, 78% 98.909090909091%, 79% 99.090909090909%, 80% 99.272727272727%, 81% 99.454545454545%, 82% 99.636363636364%, 83% 99.727272727273%, 84% 99.818181818182%, 85% 99.909090909091%, 86% 100%, 87% 100%, 88% 100%, 89% 100%, 90% 99.909090909091%, 91% 99.909090909091%, 92% 99.818181818182%, 93% 99.727272727273%, 94% 99.545454545455%, 95% 99.454545454545%, 96% 99.272727272727%, 97% 99.090909090909%, 98% 98.909090909091%, 99% 98.636363636364%, 100% 98.454545454545%); */
+        clip-path: polygon(100% 0%, 0% 0%, 0% 97.979797979798%, 1% 97.979797979798%, 2% 97.979797979798%, 3% 97.979797979798%, 4% 97.878787878788%, 5% 97.878787878788%, 6% 97.777777777778%, 7% 97.777777777778%, 8% 97.676767676768%, 9% 97.676767676768%, 10% 97.575757575758%, 11% 97.474747474747%, 12% 97.373737373737%, 13% 97.272727272727%, 14% 97.171717171717%, 15% 97.070707070707%, 16% 96.969696969697%, 17% 96.767676767677%, 18% 96.666666666667%, 19% 96.565656565657%, 20% 96.464646464646%, 21% 96.262626262626%, 22% 96.161616161616%, 23% 96.060606060606%, 24% 95.858585858586%, 25% 95.757575757576%, 26% 95.656565656566%, 27% 95.454545454545%, 28% 95.353535353535%, 29% 95.252525252525%, 30% 95.151515151515%, 31% 94.949494949495%, 32% 94.848484848485%, 33% 94.747474747475%, 34% 94.646464646465%, 35% 94.545454545455%, 36% 94.444444444444%, 37% 94.343434343434%, 38% 94.343434343434%, 39% 94.242424242424%, 40% 94.141414141414%, 41% 94.141414141414%, 42% 94.040404040404%, 43% 94.040404040404%, 44% 93.939393939394%, 45% 93.939393939394%, 46% 93.939393939394%, 47% 93.939393939394%, 48% 93.939393939394%, 49% 93.939393939394%, 50% 93.939393939394%, 51% 94.040404040404%, 52% 94.040404040404%, 53% 94.141414141414%, 54% 94.141414141414%, 55% 94.242424242424%, 56% 94.242424242424%, 57% 94.343434343434%, 58% 94.444444444444%, 59% 94.545454545455%, 60% 94.646464646465%, 61% 94.747474747475%, 62% 94.848484848485%, 63% 94.949494949495%, 64% 95.050505050505%, 65% 95.252525252525%, 66% 95.353535353535%, 67% 95.454545454545%, 68% 95.555555555556%, 69% 95.757575757576%, 70% 95.858585858586%, 71% 95.959595959596%, 72% 96.161616161616%, 73% 96.262626262626%, 74% 96.363636363636%, 75% 96.565656565657%, 76% 96.666666666667%, 77% 96.767676767677%, 78% 96.868686868687%, 79% 97.070707070707%, 80% 97.171717171717%, 81% 97.272727272727%, 82% 97.373737373737%, 83% 97.474747474747%, 84% 97.575757575758%, 85% 97.575757575758%, 86% 97.676767676768%, 87% 97.777777777778%, 88% 97.777777777778%, 89% 97.878787878788%, 90% 97.878787878788%, 91% 97.979797979798%, 92% 97.979797979798%, 93% 97.979797979798%, 94% 97.979797979798%, 95% 97.979797979798%, 96% 97.979797979798%, 97% 97.979797979798%, 98% 97.878787878788%, 99% 97.878787878788%, 100% 97.878787878788%);
+    }
+
+    .inpiration .hireStdntBox p {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+
+    .inpiration .hireStdntBox p.setResonive1.para-hire-about:not(:last-child) {
+        padding-bottom: 0 !important;
+    }
+
+    .aboutBanner img {
+        margin: 0 auto;
+        width: 100%;
+        margin-bottom: -1.2%;
+        transform: none;
+    }
+
+    .HomeTasksResponsive.freelancePage{
+        background-position: center 193% !important;
+    }
+
+    .accordion-header .accordion-button p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .accordion-header .accordion-button:after {
+        background-size: 75%;
+    }
+
+    .setResonive {
+        display: none !important;
+    }
+
+    /* .aboutBannerMobileHeading{
+        margin-left: 5%;
+    } */
+    .subhead {
+        margin: 0;
+    }
+
+    .faq .profileHead {
+        margin-bottom: 0px !important;
+    }
+
+    .connectPartialContent h2 {
+        text-transform: capitalize;
+        margin-top: 25px;
+        margin-bottom: 15px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 25px !important;
+        line-height: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .connectPartialContent p {
+        margin-left: 5px;
+        margin-right: 5px;
+        line-height: 25px;
+        margin-bottom: 5px;
+    }
+
+    .sectionHome_realCollege {
+        padding-top: 45px;
+    }
+
+    .freelanceMain .freelancerSignup .laptopMain .lptopImg img {
+        width: auto;
+        height: 100%;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .mT25px {
+        margin-top: 22px;
+    }
+
+    /* .profileImgM.setImgStdnt{
+        position: relative;
+    } */
+
+    .hireStdntBox p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .starForPerfAndComm,
+    .starForAttiAndResp {
+        flex-direction: row !important;
+        justify-content: space-between;
+    }
+
+    .notificationsMainDiv {
+        padding: 0 20px !important;
+    }
+
+    /* .stdfreeLanceBanerBlowBtn {
+        position: absolute;
+        right: 0;
+        left: 0;
+        top: 40%;
+    } */
+
+    #basic-navbar-nav {
+        border-bottom: 1px solid #EDEDED;
+        ;
+    }
+
+    .editImager {
+        top: 0;
+        right: 0;
+    }
+
+    .freelanceStudent {
+        background: unset;
+        height: unset;
+        margin-bottom: 43px;
+    }
+
+    .freelancerSimple h6 {
+        margin: 15px 0px;
+        text-align: center;
+    }
+
+    .freelancerSimple .sethedwitd {
+        margin: 0;
+    }
+
+
+    .freelancerSimple .subheading-mb-reduc {
+        margin: 0 auto;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .freelancerSimpleLeft img {
+        margin-top: 25px;
+    }
+
+    .freelanceStudent {
+        background: url("/assets/images/responsive Linesss.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center 15%;
+    }
+
+    /* .freelanceStudent .mobileStudentText {
+        margin-bottom: 85px;
+        order: 1;
+    }
+
+    .freelanceStudent .mobileStudentImage {
+        order: 0;
+    } */
+
+    .fingerPrintText_mobile {
+        order: 1;
+    }
+
+    .fingerPrintImage_mobile {
+        order: 0;
+        margin-bottom: 10px;
+    }
+
+    .homeLastBannerFamily_mobile {
+        padding-bottom: 30px;
+    }
+
+    .freelancerSimple {
+        background: url("/assets/images/responsive Linesss.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: bottom;
+    }
+
+    .freelancerChoose {
+        padding-top: 30px;
+    }
+
+    .freelanceCircle {
+        display: none;
+    }
+
+    .freelancerChoose {
+        background-image: url("/assets/images/responsive Linesss.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: bottom;
+        background-position-y: 349px !important;
+        padding-bottom: 50px;
+    }
+
+    .stdentSupport.freelanceStudent1 {
+        margin-bottom: 60px;
+        margin-top: 0px;
+    }
+
+    .setFreelanceNo {
+        background: url(/assets/images/studentfreelance/bgOfNo.png);
+        background-repeat: no-repeat;
+        height: 308px;
+        background-size: cover;
+        padding: 0;
+        margin-bottom: 250px;
+    }
+
+    .FreelanceLastSecResp {
+        background: url(/assets/images/studentfreelance/bgSingleLine.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+
+    .FreelanceLastSecResp h2 {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px !important;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+    .FLastBtn {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: capitalize;
+        background: #FFFFFF;
+        border-radius: 26px;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        margin-top: 19px;
+        height: 39px;
+        width: 111px !important;
+        padding: 0;
+        justify-content: center;
+    }
+
+    .cpnnectAboutBtn {
+        margin-left: auto;
+        margin-right: auto;
+        width: 111px !important;
+        height: 40px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .FreelanceLastSecResp img {
+        width: 105%;
+        padding-top: 5px;
+    }
+
+    .freelanceStudent img {
+        margin-left: 0;
+    }
+
+    .freelancerSimpleLeft img {
+        width: 100%;
+    }
+
+    .setChooseF {
+        width: 70%;
+    }
+
+    .setChooseF .subhead {
+        margin: 0px 25px;
+    }
+
+    .freelancerSignup:before {
+        content: unset;
+    }
+
+    .freelanceMoney {
+        display: none !important;
+    }
+
+    .FreelanceLastSecResp {
+        display: block !important;
+    }
+
+    .freelanceStudent img {
+        width: 100%;
+    }
+
+    .freelancerSignup {
+        background-image: url("/assets/images/responsive Linesss.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center 20%;
+        margin-bottom: 50px;
+    }
+
+    .freelancerSignup .laptopMain {
+        margin-top: 10px;
+    }
+
+    .freelancerSignup h6 {
+        margin: 0 2% 6%;
+    }
+
+    .setFreelanceNo .setPOfNo {
+        margin-bottom: 16px;
+    }
+
+    .foBG {
+        margin-top: 210px !important;
+    }
+
+    .freelancerChoose:before {
+        content: unset;
+    }
+
+    .cont1 h6 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .cont1 p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    /* .headerRight {
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+    } */
+    /* for secound page banner */
+    /* .bannerBtnCounter {
+        margin-top: 20px;
+    } */
+
+    .stdfreeLanceBanerBlowBtn .bannerCounter {
+        background: #F8F8F8;
+        padding: 21px 1px 21px 2px;
+    }
+
+    .sethedwitd {
+        width: 100%;
+        text-align: center;
+        margin-top: 25px !important;
+    }
+
+    .headerRight button {
+        background-color: unset;
+        border: none !important;
+        border-radius: unset;
+        /* transition: none; */
+        outline: none;
+    }
+
+    .remove {
+        background: none !important;
+    }
+
+    .homeUsers {
+        margin-bottom: 50px;
+    }
+
+    .viewAllbtn {
+        margin-top: 20px;
+    }
+
+    .usrBoxContainer {
+        padding: 19px 21px 20px 18px;
+        text-align: left;
+    }
+
+
+    .usrStars {
+        margin-top: 5px;
+    }
+
+    .usrBoxContainer p {
+        font-size: 14px;
+        line-height: 22px;
+
+        text-align: left;
+    }
+
+    .usrBoxH {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .usrBoxBottomCotent p {
+        font-size: 11px;
+        margin-top: -6px;
+        line-height: 15px;
+    }
+
+    .homeUserSlidrResponsive .usrBoxBottomCotent p {
+        text-align: left !important;
+    }
+
+    .usrBoxBottom {
+        padding: 14px 19px 19px 19px;
+    }
+
+    .columnRevers {
+        flex-direction: column-reverse;
+    }
+
+    .tasks {
+        margin-bottom: 45px;
+    }
+
+    .bannerMain {
+        margin-top: 98px !important;
+        /* height: 930px; */
+    }
+
+    .mainHomeBannerImage {
+        width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banerkiImgDiv {
+        margin-right: 0;
+    }
+
+    .banner h2 {
+        margin-bottom: 10px;
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-right: 12%;
+    }
+
+    .bannerMain.banner h2 {
+        font-size: 32px !important;
+        line-height: 40px !important;
+    }
+
+    .bannerMain.banner h6,
+    .stdProfile h6 {
+        font-size: 16px !important;
+        line-height: 22px !important;
+    }
+
+    .bannerMain.banner h6{
+        margin-bottom: 10px;
+    }
+
+    .homeUserSlidrResponsive .profileBoxH3 {
+        font-size: 18px !important;
+        margin-top: 6px;
+    }
+
+    .homeUserSlidrResponsive .profileAbout p {
+        font-size: 14px;
+        line-height: 18px;
+        font-weight: 500;
+        font-family: 'Manrope', sans-serif;
+    }
+
+    .tasks .bgNewTask {
+        padding-top: 15px;
+    }
+
+    .taskBox .taskBoxContent h4 {
+        font-size: 17px;
+    }
+
+    .taskBox .taskBoxContent p {
+        font-size: 14px;
+        line-height: 22px;
+
+        text-align: left;
+    }
+
+    .seth6abou {
+        width: 95%;
+    }
+
+    .seth6width {
+        margin-left: 10px;
+    }
+
+    .bannerFields {
+        display: unset;
+        justify-content: space-between;
+    }
+
+
+    .trustSafetycontent h4 {
+        margin-bottom: 15px;
+        font-size: 22px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+
+    .trustSafetycontent p {
+        font-family: 'Poppins';
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 20px;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .stdentSupport {
+        padding-bottom: 12px;
+        margin-bottom: 20px;
+    }
+
+    .cityField {
+        width: 100%;
+        padding: 8px 15px 8px 50px;
+        font-weight: 400;
+        font-size: 12px;
+        color: #898A8D;
+        background: url(/assets/images/home/loction.svg) no-repeat scroll 16px center;
+        margin-bottom: 15px;
+        background-size: 8% 52%;
+    }
+
+    .customSearchField {
+        width: 100%;
+    }
+
+    #advanceSearchForm .customSearchField{
+        padding-left: 0;
+    }
+
+    .flex2 {
+        margin-left: 0;
+    }
+
+
+    .findTasksField {
+        width: 100%;
+        padding: 10px 115px 10px 50px;
+        font-weight: 400;
+        font-size: 14px;
+        color: #898A8D;
+        background: url(/assets/images/home/srchIcon.svg) no-repeat scroll 17px 12px;
+        background-size: 6.5% 49%;
+    }
+
+
+    .taskbutton {
+        font-size: 12px;
+        width: 108px !important;
+    }
+
+    .bannerFields .customSearchField .taskbutton {
+        padding: 14px 5px;
+        font-weight: bolder;
+
+    }
+
+    .homePageCityField {
+        /* padding: 11px 15px 11px 50px; */
+        padding: 5px 6px 6px 40px;
+        font-size: 14px;
+        background: url(/assets/images/home/loction.svg) no-repeat scroll 17px center !important;
+    }
+
+    .findTasksField {
+        width: 100%;
+        padding: 13px 115px 13px 50px;
+        font-weight: 400;
+        font-size: 14px;
+        color: #898A8D;
+        background: url(/assets/images/home/srchIcon.svg) no-repeat scroll 17px center;
+        background-size: 6.5% 49%;
+    }
+
+    .connectPartialContent.setingwidth h2 {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    /* .banner .bannerLogos img:nth-child(3),
+    .banner .bannerLogos img:last-child {
+        width: 16%;
+    } */
+    .userHedrImg {
+        margin: 0 !important;
+    }
+
+    .banner .trust_mobileImage {
+        margin-top: 35px;
+        margin-bottom: 10px;
+        padding-bottom: 0 !important;
+        text-align: center;
+        width: 155px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner .bannerLogos_mobile img {
+        width: auto !important;
+        height: 62px !important;
+        padding-bottom: 0;
+        margin-top: 0 !important;
+    }
+
+    .banner .bannerLogos_mobile {
+        margin-top: 10px;
+        margin-bottom: 20px;
+        background: #fff;
+        margin-right: -20px;
+        padding: 10px 0px;
+        min-height: 95px;
+
+        display: flex !important;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .bannerMain .paddingLft20 {
+        padding-right: 20px;
+    }
+
+    /* .bannerLogos {
+        padding: 20px 20px;
+        width: 100%;
+    } */
+
+    .profileHead {
+        width: 95%;
+    }
+
+    .profileHead h2 {
+        margin-bottom: 15px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .homeUserSlidr .swiper {
+        padding-top: 80px;
+    }
+
+    .profileBoxH3 {
+        font-size: 17px;
+        line-height: 22px;
+        margin-top: 4px;
+    }
+
+    /* .profileBoxStars span {
+        font-size: 12px;
+        line-height: 17px;
+    } */
+
+    .stdcardViewMore {
+        right: 22px;
+        padding-left: 8px;
+    }
+
+    .profileBoxSubhed {
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: 600;
+    }
+
+    .profileTaks p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .profileAbout p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    /* .profileAbout {
+        border-bottom: 1px solid #EDEDED;
+        padding-bottom: 16px;
+        margin-bottom: 20px;
+    } */
+
+    .mb-create-acc .fnt18only {
+        margin-bottom: 16px;
+    }
+
+    .profileContainer {
+        padding: 0 15px 0px 28px;
+    }
+
+    .mb-two .last-signupname {
+        margin-left: 0 !important;
+    }
+
+    .DollarSign:before {
+
+        top: 13px;
+        left: 10px;
+
+    }
+
+    #updateStudentDetailForm .createFormLInput{
+        font-size: 12px;
+    }
+
+    .StepLocationSelect div[class^='-control'],
+    .StepLocationSelect div[class*='-control'] {
+        width: 100% !important;
+        padding: 5px 2px;
+        height: auto;
+    }
+
+    .stepOneTaskWithPrise div[class^='-control'],
+    .stepOneTaskWithPrise div[class*='-control'] {
+        padding: 10px 0px;
+    }
+
+    .createTaskLocation div[class^='-control'],
+    .createTaskLocation div[class*='-control'] {
+        width: 95%;
+        padding: 5px 0px;
+
+    }
+
+    #advanceSearchForm div[class^='-menu'],
+    #advanceSearchForm div[class*='-menu'] {
+        margin-left: -14%;
+        z-index: 999999999;
+        background-color: white;
+    }
+
+
+    #advanceSearchForm .bannerFields .customSearchField input {
+        padding: 6px 115px 6px 50px;
+        height: 48px;
+
+    }
+
+    #advanceSearchForm .bannerFields .customSearchField .taskbutton{
+        height: 48px;
+    } 
+
+    .studentDetails .studentContent.mt-3 div {
+        text-align: left;
+        margin-left: 0;
+    }
+
+    .studentContent div {
+        text-align: left;
+        margin-left: 0 !important;
+    }
+
+    .hoursTipTotal_class {
+        flex-wrap: wrap;
+    }
+
+    .hoursTipTotal_class .orderfirstBox:first-child {
+        border-right: none;
+    }
+
+    .hoursTipTotal_class .tipInputDiv:before {
+        top: 37px;
+    }
+
+    .makeMobileOnly {
+        display: block !important;
+    }
+
+    .hourlyPayMobile .DollarSign:before {
+        top: 10px;
+    }
+
+    .findStudent .homeLastBannerFamily_mobile h2 {
+        font-size: 22px !important;
+        /* margin-right: 10px; */
+        font-weight: 600;
+    }
+
+    .last-baner-padingz {
+        position: relative;
+    }
+
+    .headerRight a {
+        font-size: 16px;
+    }
+
+    .headerRight .navbar-collapse {
+        margin-top: 25px;
+    }
+
+
+    .fingerPrintsL.freelancerSignup {
+        margin-bottom: 25px;
+    }
+
+    .findStudent .homeLastBannerFamily_mobile .homebabyimg {
+        width: 128%;
+        margin: 0;
+        position: absolute;
+        bottom: -21.5%;
+        right: 3px;
+        /* margin-left: -58px; */
+        /* margin-top: 1.8%; */
+    }
+
+    .setStepOneR {
+        flex-wrap: wrap;
+    }
+
+    .daysSpace.px-3 {
+        padding: 5px !important;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .hourlyPayMobile {
+        width: 40%;
+    }
+
+    .createTaskBtn.setEarnBtn {
+        line-height: 12px;
+    }
+
+    .taskField.wd31 {
+        width: 31%;
+    }
+
+    .jobSelection label {
+        width: 170px;
+        height: 48px;
+    }
+
+    .stepOneTaskWithPrise .nameField {
+        padding: 15px 10px !important;
+    }
+
+    /* .bookNowBtn {
+        padding: 9px 16px;
+        font-size: 12px;
+    } */
+
+    /* .bgMobile{
+        background: none;
+    } */
+    .bgMobile {
+        display: none;
+    }
+
+    .HomeTasksResponsive {
+        display: block;
+        background: url(/assets/images/home/oneLine.png);
+        background-repeat: no-repeat;
+        background-position: center 210%;
+        margin: 0 -12px;
+    }
+
+    .homeUserSlidrResponsive .swiper-pagination-bullet {
+        background: #D9D6D6;
+        border-radius: 8px;
+        width: 28px;
+        height: 5px;
+    }
+
+    .homeUserSlidrResponsive .swiper-pagination-bullet.swiper-pagination-bullet-active {
+        background: #82D051;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.08);
+        border-radius: 8px;
+        width: 28px;
+        height: 5px;
+    }
+
+    .taskBoxContent p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 20px;
+        color: #898A8D;
+        margin-top: 8px;
+    }
+
+    .taskBox {
+        padding: 22px 15px;
+        margin-bottom: 30px;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 314px;
+        max-width: 314px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 205px;
+        justify-content: center;
+    }
+
+    .boxImg {
+        margin-bottom: 15px;
+    }
+
+    .taskBoxContent {
+        margin-left: 0;
+        text-align: left;
+    }
+
+    .homeUserSlidrResponsive {
+        background: url(/assets/images/home/Vector361responive.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center 50%;
+        margin-top: 2px;
+    }
+
+    .stdProfile .profileHead {
+        margin-bottom: 35px;
+    }
+
+    .homeUserSlidrResponsive .swiper {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .marginb55 {
+        margin-bottom: 10px;
+    }
+
+    .mobilelkiImg {
+        display: block;
+    }
+
+    .stdProfile {
+        margin-bottom: 0px;
+    }
+
+    .mobilelkiImg img {
+        width: 100%;
+    }
+
+    .footBottom p {
+        font-size: 15px;
+    }
+
+    .footSet a {
+        font-family: 'Manrope', sans-serif;
+        font-size: 15px;
+        line-height: 30px;
+        color: #2B2F30;
+        text-decoration: none;
+        display: block;
+        margin-bottom: 3px;
+    }
+
+    .lFoot {
+        margin-right: auto;
+        padding-left: 13px;
+    }
+
+    .findStudent.expanding {
+        padding-top: 25px;
+        padding-bottom: 20px !important;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .about-last-baner {
+        padding-top: 0px;
+        padding-bottom: 5px;
+    }
+
+    .about-last-baner h2 {
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .findStudent h2 {
+        margin-bottom: 30px;
+        font-size: 24px !important;
+        margin-left: 0px;
+        line-height: 35px !important;
+    }
+
+    .home-last-baner.container {
+        padding-top: 30px;
+        border-radius: unset;
+    }
+
+    .findStudent {
+        padding-bottom: 0;
+        padding-top: 50px;
+    }
+
+    .findStudent img {
+        width: 40%;
+        margin-top: -70px;
+        margin-left: 62%;
+    }
+
+    .stdntBtn {
+        font-size: 12px;
+        line-height: 16px;
+        margin-left: 0;
+        width: 111px !important;
+        height: 39px;
+    }
+
+    .hireStudent {
+        height: 275px;
+        background: url(/assets/images/home/mobileImageFamily.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .hireBtn {
+        font-size: 12px;
+        line-height: 20px;
+        width: 111px !important;
+        height: 39px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: unset;
+        margin-top: 15px;
+    }
+
+    .hireStdntBox {
+        padding: 16px 17px;
+    }
+
+    .hireStdntBox {
+        padding: 16px 17px;
+        margin-left: 17px;
+        margin-right: 17px;
+        margin-top: 70px;
+    }
+
+    .fingerPrintsL {
+        margin-bottom: 50px;
+        /* margin-top: 320px; */
+        margin-top: 215px;
+
+    }
+
+    .mt-22px {
+        margin-top: 22px;
+    }
+
+    .laptopMain {
+        margin-top: 35px;
+    }
+
+    .laptopBoxContent h4 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .laptopBoxContent p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-top: 8px;
+    }
+
+    .bc1:before {
+        left: unset;
+        top: -28px;
+        content: url(/assets/images/home/resp1.png);
+        right: -6px;
+    }
+
+    .bc2:before {
+        left: unset;
+        top: -28px;
+        content: url(/assets/images/home/resp2.png);
+        right: -6px;
+    }
+
+    .bc3:before {
+        left: unset;
+        top: -28px;
+        content: url(/assets/images/home/resp3.png);
+        right: -6px;
+    }
+
+    .laptopBox {
+        padding: 20px 15px;
+        margin-bottom: 35px;
+        width: 305px;
+        border: 5px solid white;
+    }
+
+    .laptopBoxContent {
+        padding-left: 0px;
+    }
+
+    .laptopBox.bc1 {
+        margin-left: 25px;
+    }
+
+    .laptopBox.bc3 {
+        margin-right: 25px;
+    }
+
+    .inpiration .hireStdntBox p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    /* moneeb */
+
+    .mb-bg-fb-2.mb-bg7 {
+        padding: 10px;
+    }
+
+    .displaynone-mb {
+        display: none;
+    }
+
+    .createAccountForm {
+        padding-bottom: 0px;
+    }
+
+
+    .lowerCircle {
+        background: url("/assets/images/Ellipse522.png");
+        height: 90px;
+        background-position: left;
+        background-repeat: no-repeat;
+        background-position-y: bottom;
+    }
+
+    .lLCircle {
+        background: url("/assets/images/Ellipse522.png");
+        background-repeat: no-repeat;
+        background-position: bottom left;
+        padding-bottom: 125px;
+    }
+
+
+    /* sign in student startss */
+    .signUpStudentForm {
+        margin-top: 0px;
+        padding: 0px
+    }
+
+    h2.head-sign-mb {
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+    .block-img-mb {
+        padding-bottom: unset !important;
+    }
+
+    .lLCircle {
+        padding-bottom: 125px !important;
+    }
+
+    .createAccount {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 24px;
+        color: #82D051;
+        letter-spacing: 0.75px;
+    }
+
+    span.setCusomerForgot {
+        display: none;
+    }
+
+    .noAccount {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        color: #4E4B66;
+        letter-spacing: 0.75px;
+    }
+
+    .img1 {
+        padding-left: unset;
+        margin-left: unset;
+    }
+
+    /* .mb-3 {
+        display: none;
+    } */
+
+    .cennre {
+        text-align: -webkit-center;
+    }
+
+    .gnder {
+        text-align: -webkit-center;
+        margin-bottom: -25px;
+    }
+
+    .gnder .primary {
+        height: 40px;
+        width: 136px !important;
+        font-size: 15px !important;
+        font-weight: 600 !important;
+        line-height: 24px !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 !important;
+    }
+
+    .mb-space input.createFormLInput {
+        margin-bottom: 18px;
+    }
+
+    .createFormLInput {
+        padding: 10px 24px;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        color: #C4C4C4;
+        font-family: 'Poppins';
+    }
+
+    .setCusomerForgot {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 32px;
+        color: #9C9C9C;
+    }
+
+    .mb-1 {
+        margin-bottom: 12px !important;
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .mb-2 {
+        margin-bottom: 15px !important;
+    }
+
+    .block-img-mb {
+        text-align: -webkit-right;
+        margin-top: -24px;
+        /* margin-right: -10px; */
+        padding-bottom: 80px;
+    }
+
+    .block-img-mb.mb-head-img {
+        margin-right: 0px;
+        margin-top: 0px;
+        z-index: -1;
+    }
+
+    .signUpStudentAlignment.block-mb {
+        display: none;
+    }
+
+    .signUpStudent {
+        display: unset;
+    }
+
+    .signUpStudentAlignment {
+        width: 85% !important;
+        overflow: hidden;
+        padding: 0px 10px;
+    }
+
+    .signUpStudentAlignment.mb-signup-form {
+        width: 100% !important;
+        padding: 0;
+    }
+
+    .createAccountForm {
+        width: unset;
+    }
+
+    .first-mb {
+        margin-right: 30px;
+    }
+
+    .createAccount h2 {
+        font-size: 35px;
+    }
+
+    .mt-5 {
+        margin-top: 2rem !important;
+    }
+
+    .createAccountForm p {
+        font-size: 16px;
+    }
+
+    .nameField {
+        font-size: 14px;
+        padding: 11px 18px !important;
+    }
+
+    .mb-4 {
+        text-align: -webkit-center;
+    }
+
+    .h5-mb {
+        text-align: -webkit-center;
+    }
+
+    .log-mb {
+        text-align: center;
+    }
+
+
+    /* welcome to sparrow start */
+    .welcomeSparrow {
+        background: unset;
+        border: unset;
+    }
+
+    .mb-head-1 {
+        text-align: center;
+    }
+
+    .formHeadStudent {
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 50px;
+    }
+
+    .mb-head-1 h5 {
+        font-family: manrope !important;
+        font-style: normal;
+        font-weight: 400 !important;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        color: #000000 !important;
+    }
+
+    .welcomeBox h6 {
+        font-family: 'Manrope';
+        font-weight: 600;
+        line-height: 32px;
+        color: #14142B;
+        font-size: 15px;
+        letter-spacing: 0.75px;
+    }
+
+    .welcomeBox h5 {
+        font-family: 'Manrope';
+        font-weight: 400;
+        line-height: 20px;
+        font-size: 12px;
+        letter-spacing: 0.75px;
+        color: #4E4B66;
+    }
+
+    .text-center h5 {
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 32px;
+        letter-spacing: 0.75px;
+    }
+
+    a.welcomeBox {
+        margin-bottom: 25px;
+    }
+
+    .studentLogIn {
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 32px;
+        letter-spacing: 0.75px;
+    }
+
+    .welcomeSparrow {
+        padding: 0px 10px 10px 10px;
+        margin: unset;
+    }
+
+
+    /* customer signup */
+    .d-flex .mb-dflex {
+        display: flex !important;
+    }
+
+    .first-mb.mb-first {
+        width: 50%;
+        margin-right: 10px;
+    }
+
+    .last-mb.mb-last {
+        width: 50%;
+    }
+
+    .mb-css-1 .mb-css-5 input.nameField {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        color: #C4C4C4;
+    }
+
+    .mb35 .nameField .mb-mb-35 {
+        padding: 10px 10px !important;
+        width: 100%;
+    }
+
+    form.createAccountForm.mb-css-1 {
+        max-width: unset;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .createAccount.customerSignup.mb-all-1 {
+        background: url(/assets/images/Rectangle17385.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: contain;
+        padding-top: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 150px;
+    }
+
+    .createAccount.customerSignup.mb-all-1 {
+        margin-bottom: 18px;
+    }
+
+    .createAccount.customerSignup {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .mb-all-1 h2 {
+        font-family: 'Manrope';
+        font-weight: 700;
+        font-size: 25px !important;
+        line-height: 50px;
+        text-align: center;
+        color: #FFFFFF;
+        letter-spacing: 1px;
+        margin-bottom: 28px;
+        padding-top: 35px;
+    }
+
+    .createAccountForm p.mb-1 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        color: #000000;
+        margin-left: 6px;
+    }
+
+    .mb-css-1 input.nameField {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        color: #C4C4C4;
+        width: 100%;
+    }
+
+    .h5-mb h5 {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+    }
+
+    .App {
+        overflow: hidden;
+    }
+
+    .mb35.mb-432 {
+        margin-bottom: 45px;
+    }
+
+    /* signup student */
+
+    .primary.fnt18.mb-fnt18 {
+        margin-bottom: unset;
+        padding: 0 !important;
+    }
+
+    .lrCircle {
+        background: url(/assets/images/Ellipse52.png);
+        background-repeat: no-repeat;
+        background-position: bottom left;
+    }
+
+    .mb35.d-flex.d-flex-mb {
+        display: unset !important;
+    }
+
+    .signUpStudentForm.mb-studentsign {
+        padding: 0px 18px;
+    }
+
+    .signUpStudentAlignment.block-mb-4 {
+        display: none;
+    }
+
+    h2.formHeadStudent {
+        text-align: -webkit-center;
+    }
+
+    p.mb-1 {
+        color: black;
+    }
+
+    input.nameField.ml-1 {
+        margin-left: unset;
+        padding: 11px 24px !important;
+    }
+
+    .mb-one {
+        margin-bottom: 20px;
+    }
+
+    .mb-two {
+        margin-bottom: 20px;
+    }
+
+    .gnder.display-mb {
+        margin: 40px 0px 25px 0px;
+    }
+
+    .mb-4626.mb-4342 {
+        margin-bottom: 35px;
+    }
+
+    .mb-4626 {
+        text-align: center;
+    }
+
+    .mb-4626 h5 {
+        font-size: 12px !important;
+    }
+
+    .mb-4626 a.studentLogIn {
+        line-height: 24px;
+    }
+
+    .formHeadStudent {
+        margin-bottom: 15px;
+    }
+
+    .signUpStudentAlignment.lrCircle {
+        padding: unset;
+    }
+
+    /* commented for home page */
+    /* img.imgBorder {
+        width: 150px;
+        height: 150px;
+    } */
+
+    .upperForm {
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+
+    .signupFormUpload{
+        margin-bottom: 35px;
+    }
+
+    
+
+    input.bDateInput.bdate-mb-1 {
+        width: 41%;
+        margin-right: unset;
+    }
+
+    input.bDateInput.bdate-mb {
+        width: 25%;
+    }
+
+    .mb-bg-fb {
+        background: url(/assets/images/Rectangle17385.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: contain;
+        padding-top: 80px;
+    }
+
+    .mb-bg-fb h2 {
+        font-size: 25px;
+        line-height: 50px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        color: white;
+        margin-bottom: 45px;
+    }
+
+    .gnder.d-flex.mb-non-mar {
+        margin: unset;
+    }
+
+    .gnder .gender-mb {
+        width: 110px !important;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .createFormUploadBtns img {
+        margin: 12px auto;
+        width: 82%;
+    }
+
+    .bDateInput {
+        font-size: 12px;
+    }
+
+    .gnder.d-flex.mb-d-flex {
+        margin-top: 55px;
+        margin-bottom: 60px;
+        justify-content: center;
+    }
+
+    a.secondary.gender-mb.block-mb-22 {
+        display: none !important;
+    }
+
+    a.primary.gender-mb-1 {
+        height: 40px !important;
+        width: 150px !important;
+    }
+
+    .blok-img-mb {
+        margin-bottom: -76px;
+        margin-left: -44px;
+    }
+
+    /* step one starts */
+
+    .stepOne h2 {
+        margin-bottom: 25px;
+        margin-top: 38px;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 50px;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+
+    .mb-new-step {
+        text-align: center;
+    }
+
+    .contain-mb-up {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 35px;
+    }
+
+    img.img-hero-mb {
+        margin-bottom: 5px;
+    }
+
+    p.mb-new-12 {
+        font-size: 9px;
+        line-height: 15px;
+        font-weight: 500;
+        font-family: 'Poppins';
+        color: #82D051;
+        letter-spacing: 0.75px;
+    }
+
+    p.mb-new-123 {
+        font-size: 9px;
+        line-height: 15px;
+        font-weight: 500;
+        font-family: 'Poppins';
+        color: #898A8D;
+        letter-spacing: 0.75px;
+    }
+
+    .testRadiobtn {
+        width: 100%;
+        height: 35px;
+        font-size: 12px;
+        text-align: center;
+        background: #FFFFFF;
+        border: 1px solid #82D051;
+        border-radius: 10px;
+    }
+
+    .radioBtn {
+        background-color: white;
+        width: 100%;
+    }
+
+    button.testRadiobtn:active {
+        background-color: #82D051;
+        color: white;
+    }
+
+    .qMain {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .qParts2 {
+        margin-left: unset;
+    }
+
+    .qParts {
+        margin-bottom: 20px;
+    }
+
+    .SignupConfirmEmail {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    button.testRadiobtn.mb-Radiobtn {
+        width: 75px;
+        height: 35px;
+    }
+
+    .StepOneSelect .css-1s2u09g-control,
+    .StepOneSelect .css-1pahdxg-control {
+        padding: 0px 24px;
+        height: 42px;
+        width: 92%;
+    }
+
+    .css-14el2xx-placeholder {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+    }
+
+    .formMsg {
+        font-size: 12px;
+        letter-spacing: 0.75px;
+        height: 121px !important;
+    }
+
+    .formCheck {
+        margin-bottom: 40px;
+    }
+
+    .pretty {
+        position: relative;
+        display: inline-block;
+        margin-right: 1em;
+        white-space: nowrap;
+        line-height: 0.68;
+    }
+
+    .formCheck label {
+        font-size: 12px;
+    }
+
+    .pretty .state label {
+        text-indent: 24px;
+    }
+
+    a.backBtn.mb-backBtn {
+        display: none;
+    }
+
+    .formBtnSet.mb-formBtnSet {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .mb-formBtnSet .ctn {
+        width: 150px;
+        border-radius: 20px;
+        height: 40px;
+        padding: 0;
+    }
+
+    .ctn {
+        margin-left: 0px;
+    }
+
+    /* step two starts */
+
+    .p-thick.workPoint label {
+        font-weight: 500 !important;
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .pretty.p-default.p-thick .state label:after,
+    .pretty.p-default.p-thick .state label:before {
+        border-width: calc(1em / 7);
+        margin-top: 8px;
+    }
+
+    .pretty.p-default.p-round.p-thick.workPoint {
+        margin-bottom: 13px;
+    }
+
+    label.displaynone-mb-551 {
+        font-size: 12px;
+        line-height: 24px;
+        font-weight: 400;
+        letter-spacing: 0.75px;
+        width: 100%;
+    }
+
+    input#appt {
+        margin-right: 15px;
+    }
+
+    .workingTimeSecndImg {
+        width: 35%;
+    }
+
+    input#appt2 {
+        width: 45%;
+    }
+
+    input#appt {
+        width: 45%;
+    }
+
+    input#appt {
+        margin-right: 15px;
+    }
+
+    .mb-time-zone {
+        width: 100%;
+    }
+
+    /*.workingTimeSecndImg {
+         margin-left: 15px;
+        margin-right: 15px; 
+    }*/
+
+    .mbl-mb-time {
+        margin-bottom: 10px;
+    }
+
+    img.workingTimeSecndImg {
+        width: 24px;
+        height: 24px;
+    }
+
+    .workingTimeSecndImg {
+        width: 15%;
+        /* margin-left: 8px;
+        margin-right: 8px; */
+    }
+
+    .addDay .backBtn {
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 24px;
+        /* width: 75px; */
+        height: 35px;
+        border-radius: 10px;
+        padding: 0 !important;
+    }
+
+    .addDay {
+        margin-bottom: 25px;
+    }
+
+    .circle-mb {
+        margin-top: 15px;
+    }
+
+
+
+    /* step three page starts */
+
+    a.backBtn.mb-backBtn {
+        display: none;
+    }
+
+    .formBtnSet {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .backBtn {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 24px;
+        width: 150px;
+        height: 39px;
+        padding: 0 !important;
+    }
+
+    .bankDetails {
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* step four page starts */
+
+    h2.stepFourHead {
+        margin-top: 38px;
+        margin-bottom: 25px;
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 1px;
+    }
+
+    .formBtnStepFor {
+        text-align: center;
+        margin-top: 40px;
+        justify-content: space-evenly;
+    }
+
+    .circleBottom .lowerCircle {
+        margin-top: 150px;
+    }
+
+    /* email confirm starts */
+
+    .mb-h6-signup br {
+        display: none;
+    }
+
+    .SignupConfirmEmail.mb-bg-fb-2 {
+        background: url(/assets/images/Rectangle17385.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: contain;
+        padding-top: 60px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 150px;
+    }
+
+    img.confirmImg-1mb {
+        display: none;
+    }
+
+    img.confirmImg-mb7 {
+        width: 110px;
+        height: 110px;
+        margin-top: 142px;
+        margin-bottom: 45px;
+    }
+
+    .innerText h1 {
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+    }
+
+    h6.h6-inner-mb {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0.75px;
+    }
+
+    h6.mb-h6-signup {
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: 0.75px;
+        font-weight: 400;
+    }
+
+    .resendEmail {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 32px;
+        letter-spacing: 0.75px;
+    }
+
+    .mt-5.mb-mt5-blok {
+        display: none;
+    }
+
+    .SignupConfirmEmail h6 {
+        margin-bottom: 28px;
+    }
+
+
+    /* profile done starts */
+
+    .margn-h6-mb br {
+        display: none;
+    }
+
+    .innerText2 h1 {
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+    }
+
+    h6.mb-h6-signup.margn-h6-mb {
+        margin-bottom: 38px;
+    }
+
+    .SignupConfirmEmail.mb-bg-fb-2.mb-bg7 {
+        margin-bottom: 150px;
+    }
+
+
+    /* forgot password starts */
+
+    h2.formHeadStudent.mb-24 {
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 32px;
+        left: 0.75px;
+    }
+
+    p.forgt-mb-p {
+        font-size: 12px;
+        line-height: 25px;
+        letter-spacing: 0.75px;
+        font-weight: 400;
+        color: #4E4B66;
+    }
+
+    p.mb-2-frgt {
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: 0.75px;
+        font-weight: 400;
+        color: #000000;
+        margin: 25px 0px 12px 0px;
+    }
+
+    .forgt-mb-p br {
+        display: none;
+    }
+
+    .forgot {
+        padding: 8px 8px;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+        height: 40px;
+        width: 155px !important;
+    }
+
+    .mb-frgt-field {
+        text-align: -webkit-center;
+    }
+
+    input.createFormLInput.setwidth.mb-form-wid {
+        width: 100%;
+    }
+
+    .mb35.email-para {
+        margin-bottom: 40px;
+    }
+
+    h5.backtoLogin.login-back {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        font-family: poppins;
+        letter-spacing: 0.75px;
+        text-align: -webkit-center;
+    }
+
+    .mb-frgt-pass {
+        margin-bottom: 30px;
+    }
+
+    .parrot-mb {
+        text-align: center;
+        /* margin-bottom: 10px; */
+    }
+
+    .SignupConfirmEmail.setForgotPassMain.mb-frgt-pass {
+        padding: 0px 10px;
+        margin-top: 0px;
+    }
+
+
+    /* arrow on all pages */
+    .btn-mb-arrow {
+        padding-top: 20px;
+    }
+
+    .btn-mb-arrow.mb-pad-arrow {
+        /* padding-top: unset; */
+        text-align: left;
+    }
+
+    .mb-top-pad {
+        padding-top: 0px !important;
+    }
+
+    img.imgBorder.wid-mb-ig {
+        width: unset;
+        height: unset;
+        padding: unset;
+    }
+
+    .mb-green-arrow {
+        text-align: left;
+        margin-bottom: -58px;
+    }
+
+    .mb-green-arrow img {
+        padding: 40px 0px 0px 25px;
+    }
+
+   
+    .btn-mb-arrow img {
+        padding: 25px 0px 0px 12px;
+    }
+
+    .sideImageTopRight {
+        z-index: -1;
+    }
+
+    .mbb-signin .mt-4 {
+        margin-top: unset !important;
+    }
+
+    .mb5 {
+        margin-bottom: 5px !important;
+    }
+
+    .mb-task-student .col-md-2 {
+        width: 0px;
+        display: none;
+    }
+
+    /* student task description */
+
+    .mb-student-desp h4 {
+        border-bottom: 0.5px solid black;
+        padding-bottom: 20px;
+    }
+
+    .studentTaskDescpDiv.mb-studnt-descp {
+        border: unset;
+        box-shadow: none;
+        padding: 0px;
+        margin-top: 30px;
+
+    }
+
+    .studentDescription.mb-student-desp {
+        padding: 25px;
+    }
+
+    .mb-student-desp h4 {
+        padding-left: 0px;
+        border-bottom: 0.5px solid #EAEFF3;
+        padding-bottom: 11px;
+        margin-bottom: 0px;
+    }
+
+    .hourlyPayDiv.mb-2 {
+        margin-top: -37px;
+        padding-bottom: 0px;
+        margin-bottom: 0px !important;
+        align-items: flex-start;
+    }
+
+    .hourlyPayDiv span {
+        font-size: 11px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .hourlyPayDiv p {
+        padding: 5px 18px;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 15px;
+        letter-spacing: 0.75px;
+    }
+
+    .heading-mb-stud {
+        font-family: 'Manrope', sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+
+    }
+
+    .p-mb-stud {
+        font-family: 'Manrope', sans-serif;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+    }
+
+    .para-mb-stud {
+        font-family: 'Manrope', sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+    }
+
+    .teaskCtn {
+        font-size: 11px;
+    }
+
+
+    .mb-studnt-descp .row {
+        justify-content: space-between;
+    }
+
+    .colorfulBtns {
+        justify-content: space-evenly;
+    }
+
+    .mainStyle {
+        line-height: 29px;
+        padding: 0px 0px;
+        width: 85px;
+        height: 30px;
+        margin-left: 0px;
+    }
+
+    /* student earning page */
+    .mb-earning-tit {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 17px;
+        letter-spacing: 0.75px;
+    }
+
+    .mb-earning-title {
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 22px;
+        letter-spacing: 0.75px;
+    }
+
+    .mb-green-earn {
+        display: block;
+        font-weight: 500;
+        text-align: center;
+        margin-bottom: 45px !important;
+    }
+
+    .orderDetailRight {
+        padding: 20px 0;
+        justify-content: space-evenly;
+    }
+
+    .orderfirstBox {
+        padding: 5px 15px 5px 15px;
+    }
+
+    .pad-mb-earn {
+        padding-top: 110px;
+    }
+
+    .earningHed {
+        color: #000000;
+        margin-bottom: 25px;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    .setEarningSec {
+        padding: 30px 15px 25px;
+    }
+
+    .mb-earnbtn {
+        width: 85px;
+        height: 30px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 17px;
+        float: right;
+        margin-top: 7px;
+    }
+
+    .mb-heading-earn {
+        display: block;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.75px;
+        color: #898A8D;
+    }
+
+    ::placeholder {
+        color: #C4C4C4;
+    }
+
+    .studentTaskDescpParts {
+        margin-bottom: 5px;
+    }
+
+    .mb-task-student .col-md-5 {
+        width: 50%;
+    }
+
+    .formBtnSet.mb-formBtnSet {
+        display: unset;
+        justify-content: unset;
+        margin-bottom: 40px;
+        text-align: -webkit-center;
+    }
+
+    .formBtnSet {
+        display: unset;
+        justify-content: unset;
+        text-align: -webkit-center;
+    }
+
+    .setLower2 .lowerCircle {
+        margin-top: 26px;
+    }
+
+    .mb35.customerSigninP.mb-space {
+        margin-bottom: 15px;
+    }
+
+    .gnder.mb-create-acc {
+        margin-bottom: 25px;
+    }
+
+    .profileContainer {
+        padding: 0 25px 0px 25px;
+    }
+
+    .profileContainer {
+        padding: 0 25px 0px 25px;
+    }
+
+    .marginForDashboard {
+        margin-right: calc(-.5 * var(--bs-gutter-x));
+        margin-left: calc(-.5 * var(--bs-gutter-x));
+    }
+
+    .mb-heading-bg h2 {
+        text-align: left;
+    }
+
+    .notification {
+        background: #EDEDED;
+    }
+
+    .bgNotiLines.mb-heading-bg {
+        padding-bottom: 30px;
+    }
+
+    h4.displaynone-mb-551.green {
+        margin-bottom: 21px;
+        text-align: center;
+    }
+
+    .workRateTopHed h4 div:nth-child(3) span {
+        font-weight: 500;
+        font-size: 10px;
+    }
+
+    .workRateTopHed h4 div:nth-child(2) {
+        font-weight: 500;
+        font-size: 12px;
+    }
+
+    .mb-rating-review {
+        display: inherit;
+    }
+
+    .taskCompletedP {
+        font-weight: 500;
+        font-size: 12px;
+        height: fit-content;
+    }
+
+    .aboutMainhed {
+        font-weight: 500;
+        margin-right: 5px;
+        margin-bottom: 5px !important;
+    }
+
+}
+
+@media (max-width: 575px) {
+    #updateStudentDetailForm {
+        margin: 0 !important;
+    }
+
+    #advanceSearchForm .cityField{
+        padding: 5px 6px 7px 40px;
+    }
+    
+    .timeBetweenStartEnd{
+        display: inline-block !important;
+        transform: scale(2.5, 2);
+        color: #D9D6D6;
+    }
+
+    #updateStudentDetailForm .carLisenceField .pOptions,
+    #updateStudentDetailForm .vehicleDivModal .pOptions{
+        justify-content: flex-start !important;
+    } 
+
+    .studentDetailModalBody .bDate .dateSubFlex input.bDateInput{
+        font-size: 14px;
+        padding-top: 12px !important;
+        padding-bottom: 12px !important;
+    }
+
+    .btn-contact-mb.submitbtn {
+        font-size: 12px;
+        font-weight: 600;
+        width: 112px !important;
+        height: 40px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .reviewSection_dashbord{
+        margin-top: 1rem !important;
+    }
+
+    .lisenceDivModal{
+        margin-bottom: 18px !important;
+    }
+
+    .noTaskForReview{
+        width: 106%;
+    }
+
+    .noTaskForReview .publishP{
+        margin-left: 3px;
+    }
+
+    .aboutMeBox  .withPaymentBlock{
+        padding-left: 0;
+    }
+    .aboutMeBox  .pr-0.col-4{
+        padding-right: 0;
+    }
+
+    .makeActiveNextLine{
+        display: block;
+    }
+
+    .workPoint label{
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .aboutMeBox .workContent .fancySpan{
+        font-size: 14px;
+    }
+
+    .dayFlexDiv {
+        margin-top: 5px;
+    }
+
+    .hobbiesModal>div,
+    .languageModal>div {
+        margin-top: 5px;
+    }
+
+    .with483 {
+        width: 100%;
+    }
+
+    .studentDetailModalBody .createAccountForm .mb35.d-flex.mb-dflex {
+        width: 98% !important;
+        margin-left: 0px;
+    }
+
+    .f_l_parent_modal {
+        margin-bottom: 0px;
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 5px;
+    }
+
+    .f_l_parent_modal>.f_l_name_modal {
+        margin-bottom: 25px !important;
+        width: 100%;
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 0;
+        margin: 0;
+    }
+
+    .f_l_name_modal {
+        width: 100%;
+        margin-left: 20px;
+    }
+
+    .f_l_name_modal input {
+        width: 95%;
+    }
+
+    .firstName_modal {
+        margin-left: 25px;
+    }
+
+    .qParts2 {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    select.timingInput.mb-time-1 {
+        margin-right: 22px;
+    }
+
+    select.timingInput:last-child {
+        margin-right: 0px !important;
+    }
+
+    .timeSlotPills {
+        margin-bottom: 5px;
+    }
+
+    .studentDetailModalBody .pOptions.setStepOneR .selectGEndrDiv .secondary.gender-mb {
+        width: 78px !important;
+        height: 35px !important;
+    }
+
+    .studentDetailModalBody .selectGEndrDiv {
+        margin-right: 3px;
+    }
+
+    .studentDetailModalBody .gnder.pOptions.d-flex .selectGEndrDiv:last-child {
+        margin-right: 0 !important;
+    }
+
+    .modalBodyTimeAvalible {
+        padding: 0 !important;
+    }
+
+    .findStudent.last-baaner-hme {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        margin-bottom: 0;
+    }
+
+    .hireBtn.ml-80 {
+        margin-left: 0;
+    }
+
+    .actionContent_mainNav {
+        width: 40px;
+        height: 40px;
+        margin: 2px 32px 0px 0px;
+        margin-top: 9px;
+        display: block !important;
+    }
+
+    .actionContent_mainNav>img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .actionContent_mainNav>.colorGreen {
+        bottom: -7px;
+    }
+
+    .headerLeft {
+        width: 66%;
+    }
+
+    .headerLeft .makeMobileOnly img {
+        width: 78%;
+
+    }
+
+    .romaalimg {
+        bottom: 44%;
+        right: 8px;
+    }
+
+    .mb-create-acc .alignLoader {
+        top: 10px;
+        left: 60%;
+    }
+
+    .relative {
+        width: 132px;
+    }
+
+    .relative .alignLoader {
+        top: 8px;
+    }
+
+    .badgeStdnt {
+        bottom: 8px;
+        right: 25%;
+    }
+
+    .hireStdntBox.foBG h3 {
+        font-size: 25px;
+        line-height: 32px;
+        margin-right: 2%;
+    }
+
+    .subheading-mb-reduc {
+        font-size: 25px !important;
+        line-height: 37px !important;
+    }
+
+    .headingWithGreen_mobile {
+        font-size: 30px !important;
+        line-height: 40px !important;
+    }
+
+    .advanceBodyParts .innerSetting {
+        margin-left: auto !important;
+    }
+
+    .connectPartialContent {
+        margin-right: 0% !important;
+    }
+
+    .advanceBodyParts .innerSetting {
+        margin-left: auto !important;
+    }
+}
+
+@media(min-width:551px) {
+
+    #homeSearchForm .flex1.col-md-6.col-sm-12{
+        position: unset;
+    }
+    
+    
+
+    .cityField.homePageCityField  div[class^='-control'] div[class^='-ValueContainer'],
+    .cityField.homePageCityField  div[class*='-control'] div[class*='-ValueContainer'] {
+        padding-left: 2px !important;
+        padding-right: 2px !important;
+    }
+
+    .displaynone-mb-551 {
+        display: none;
+    }
+
+    .block-img-mb {
+        display: none;
+    }
+
+    .blok-img-mb {
+        display: none;
+    }
+
+    .contain-mb-up {
+        display: none;
+    }
+
+    img.confirmImg-mb7 {
+        display: none;
+    }
+
+    .parrot-mb {
+        display: none;
+    }
+
+    .mb-green-arrow {
+        display: none;
+    }
+
+    .btn-mb-arrow {
+        display: none;
+    }
+
+}
+
+@media(max-width:450px) {
+
+    .StepOneSelect .css-1s2u09g-control,
+    .StepOneSelect .css-1pahdxg-control {
+        width: 80%;
+    }
+    #homeSearchForm .flex1.col-md-6.col-sm-12{
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    #homeSearchForm .flex2.col-md-6.col-sm-12{
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+
+    img.confirmImg-mb7 {
+        margin-top: 118px;
+    }
+
+    .mb-bg-fb {
+        padding-top: 55px;
+    }
+
+    .mb-bg-fb h2 {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width: 425px) {
+
+    .StepOneSelect .css-1s2u09g-control,
+    .StepOneSelect .css-1pahdxg-control {
+        width: 100%;
+    }
+
+    img.confirmImg-mb7 {
+        margin-top: 105px;
+    }
+
+    .createAccount.customerSignup.mb-all-1 {
+        padding-top: 0px;
+    }
+
+    .mb-all-1 h2 {
+
+        margin-bottom: 25px;
+        padding-top: 20px;
+
+    }
+
+}
+
+@media(max-width:400px) {
+    .laptopBox.bc1 {
+        margin-left: 15px;
+    }
+
+    .findStudent .homeLastBannerFamily_mobile .homebabyimg {        width: 120%; }
+
+    .setStepOneR .testRadiobtn {
+        max-width: 75px !important;
+        padding: 2px;
+        height: 35px;
+    }
+
+    .adjustingHeight2 {
+        padding-bottom: 8px;
+        height: calc(100vh - 405px);
+    }
+
+    .fancySpan {
+        padding: 4px;
+        margin-right: 4px;
+    }
+
+    .hireStudent.inpiration {
+        height: unset;
+        margin-bottom: 0px;
+        padding-bottom: 50px;
+    }
+
+    /* .connecting {
+        padding-bottom: 50px;
+    } */
+
+    .laptopBox.bc3 {
+        margin-right: 15px;
+    }
+
+    .findStudent img {
+        width: 56%;
+        margin-top: -113px;
+        margin-left: 155px;
+    }
+
+    .findStudentAbout img {
+        margin-left: 223px;
+        width: 40%;
+    }
+
+
+
+    .findStudent {
+        padding-bottom: 0;
+        padding-top: 30px;
+    }
+
+    .widthHomeR {
+        width: 88%;
+    }
+}
+
+@media (max-width: 375px) {
+
+    .stdUpdateLocation_select .css-1s2u09g-control,
+    .stdUpdateLocation_select .css-1pahdxg-control {
+        width: 100% !important;
+        padding: 0;
+    }
+
+    .StepOneSelect .css-1s2u09g-control,
+    .StepOneSelect .css-1pahdxg-control {
+        width: 73%;
+    }
+
+    img.confirmImg-mb7 {
+        margin-top: 80px;
+    }
+
+    .mb-bg-fb {
+        padding-top: 45px;
+        /* padding-left: 40px;
+        padding-right: 40px; */
+    }
+
+    .createAccount.customerSignup.mb-all-1 {
+        padding-top: 52px;
+    }
+
+    .mb-all-1 h2 {
+        margin-bottom: 36px;
+        padding-top: 0px;
+    }
+
+    .pad-mb-top {
+        padding-top: 0px !important;
+    }
+
+}
+
+@media(max-width:330px) {
+    .findStudent.expanding img {
+        margin-top: -220px;
+        margin-left: 140px;
+    }
+
+    .findStudent .homeLastBannerFamily_mobile .homebabyimg {    bottom: -17%; }
+
+    .freelancerSignup h6 {
+        color: #2B2F30 !important;
+        /* padding: 0 40px; */
+    }
+
+    .singleChathed {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+        margin-left: 20px;
+    }
+
+    .adjustingHeight2 {
+        padding-bottom: 8px;
+        height: calc(100vh - 390px);
+    }
+
+    .CustomerRespSingleChat {
+        margin-top: 105px;
+    }
+
+    .chatUserContentp {
+        width: 150px;
+    }
+
+    .ratingBox {
+        padding: 9px 0;
+    }
+
+    .wd66 .orderfirstBox:last-child {
+        padding-left: 25px;
+    }
+
+    .hireStudent.inpiration {
+        margin-bottom: 230px;
+    }
+
+    .connecting .profileHead h2 {
+        width: 70%;
+    }
+
+    .FreelanceLastSecResp {
+        padding: 20px 0;
+    }
+
+    .FreelanceLastSecResp .col-6 {
+        padding: 0;
+    }
+
+    .setChooseF {
+        width: 90% !important;
+    }
+
+    .HomeTasksResponsive {
+        background: unset;
+    }
+
+    .FreelanceLastSecResp .col-6 {
+        padding-left: 9px !important;
+    }
+
+    .findStudent img {
+        width: 55%;
+        margin-top: -101px;
+        margin-left: 130px;
+    }
+
+    .laptopBox.bc1 {
+        margin-left: unset;
+    }
+
+    .laptopBox.bc3 {
+        margin-right: unset;
+    }
+
+    .laptopBox {
+        width: 275px;
+    }
+
+    .bc2 {
+        margin-left: 10px;
+    }
+
+    .fingerPrintsL {
+        margin-top: 280px;
+    }
+
+    .homeUserSlidrResponsive .swiper {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+
+    .homeUserSlidrResponsive {
+        background-position: center 30%;
+    }
+
+    /* .bannerMain {
+        margin-bottom: 0;
+        height: 900px;
+    } */
+
+    /* moneeb */
+
+    .StepOneSelect .css-1s2u09g-control,
+    .StepOneSelect .css-1pahdxg-control {
+        width: 62%;
+    }
+
+    .mb-bg-fb {
+        padding-top: 35px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    img.confirmImg-mb7 {
+        margin-top: 40px;
+    }
+
+    .formHeadStudent {
+        line-height: 30px;
+    }
+
+    .createAccount.customerSignup.mb-all-1 {
+        padding-top: 40px;
+    }
+
+    .mb-all-1 h2 {
+        margin-bottom: 20px;
+        padding-top: 0px;
+    }
+
+    .orderfirstBox {
+        padding: 5px 8px 5px 8px;
+    }
+
+    .hourlyPayDiv p {
+        padding: 5px 12px;
+    }
+
+    .hourlyPayDiv span {
+        margin-left: 4px;
+        margin-right: 4px;
+    }
+
+    .mainStyle {
+        width: 73px;
+    }
+
+    .workRateTopHed h4 div:nth-child(2) {
+        margin-left: 5px;
+    }
+
+    .workRateTopHed h4 div:nth-child(3) span {
+        margin-left: 5px;
+    }
+
+    .ratingPartsHed {
+        width: 100%;
+    }
+
+    .taskBox {
+        width: 285px;
+        max-width: 285px;
+    }
+
+    .profileBox {
+        width: 285px;
+        min-width: 285px !important;
+    }
+
+    .profileHead h2 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .freelanceMain .freelancerSignup .laptopMain .lptopImg img {
+        width: 100%;
+    }
+}
